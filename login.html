@@ -1,6 +1,31 @@
 <!doctype html>
-<html lang="ja"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="theme-color" content="#f5c84c"><title>ログイン | Sentence Studio</title><link rel="stylesheet" href="style.css"><script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script><script src="js/supabase-config.js"></script><script src="js/auth.js"></script></head>
-<body><section class="auth-screen"><div class="auth-card"><a class="brand auth-brand" href="login.html"><span class="brandmark">✳</span><span>Sentence Studio<small>ENGLISH PRACTICE</small></span></a><div class="auth-intro"><span class="eyebrow">YOUR ENGLISH JOURNEY</span><h1>英文を、自分のものに。</h1><p>管理者から配布されたIDでログインしてください。</p></div><form id="loginForm" class="auth-form active"><label for="loginId">ID</label><input id="loginId" autocomplete="username" placeholder="配布されたID" required><label for="password">パスワード</label><input id="password" type="password" autocomplete="current-password" placeholder="パスワード" required><button class="btn primary wide" type="submit">ログイン</button></form><div id="message" class="message" role="status" aria-live="polite"></div><div class="divider"><span>アカウントについて</span></div><p class="auth-note">アカウントは管理者が発行します。初回ログイン後はマイページでパスワードを変更してください。</p></div></section>
+<html lang="ja">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#f5c84c">
+        <title>ログイン | 600選暗記アプリ</title>
+        <link rel="stylesheet" href="style.css">
+        <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+        <script src="js/supabase-config.js"></script>
+        <script src="js/auth.js"></script>
+    </head>
+    <body>
+        <section class="auth-screen">
+            <div class="auth-card">
+                <a class="brand auth-brand" href="login.html">
+                    <span class="brandmark">✳</span>
+                    ><span>600選暗記アプリ<small>600 sentences</small></span>
+                </a>
+                <div class="auth-intro">
+                    <span class="eyebrow">YOUR ENGLISH SENTENCES</span>
+                    <h1>英文を、自分のものに。</h1>
+                    <p>管理者から配布されたIDでログインしてください。</p>
+                </div>
+                <form id="loginForm" class="auth-form active">
+                    <label for="loginId">ID</label>
+                    <input id="loginId" autocomplete="username" placeholder="配布されたID" required>
+                    <label for="password">パスワード</label><input id="password" type="password" autocomplete="current-password" placeholder="パスワード" required><button class="btn primary wide" type="submit">ログイン</button></form><div id="message" class="message" role="status" aria-live="polite"></div><div class="divider"><span>アカウントについて</span></div><p class="auth-note">アカウントは管理者が発行します。初回ログイン後はマイページでパスワードを変更してください。</p></div></section>
 <script>
 const form=document.querySelector('#loginForm'), message=document.querySelector('#message');
 function say(text,error=false){message.textContent=text;message.classList.toggle('error',error)}
