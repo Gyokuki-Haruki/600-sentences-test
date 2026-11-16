@@ -1,0 +1,60 @@
+<!doctype html>
+<html lang="ja">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#f5c84c">
+        <title>マイページ | Sentence Studio</title>
+        <link rel="stylesheet" href="style.css">
+        <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+        <script src="js/supabase-config.js"></script>
+        <script src="js/auth.js"></script>
+    </head>
+    <body>
+        <section class="auth-screen">
+            <div class="auth-card">
+                <a class="brand auth-brand" href="index.html">
+                    <span class="brandmark">✳</span><span>600選暗記アプリ<small>600 sentences</small></span>
+                </a>
+                <div class="auth-intro">
+                    <span class="eyebrow">ACCOUNT SETTINGS</span>
+                    <h1>名前・パスワードの編集</h1>
+                    <p>ログイン情報とパスワードを管理します。</p>
+                </div>
+                <div class="card" style="padding:15px;margin-bottom:16px">
+                    <span class="muted">ログインID</span>
+                    <div id="accountId" style="font-weight:700;overflow-wrap:anywhere"></div>
+                </div>
+                <div id="firstNotice" class="message"></div>
+                <form id="displayNameForm" class="auth-form active profile-name-form">
+                    <label for="displayName">表示名</label>
+                    <input id="displayName" maxlength="40" autocomplete="nickname" placeholder="アプリ内で表示する名前">
+                    <button class="btn secondary wide" type="submit">表示名を保存</button>
+                </form>
+                <div id="nameMessage" class="message" role="status" aria-live="polite"></div>
+                <form id="changeForm" class="auth-form active">
+                    <label for="currentPassword">現在のパスワード</label>
+                    <input id="currentPassword" type="password" autocomplete="current-password" required>
+                    <label for="newPassword">新しいパスワード</label>
+                    <input id="newPassword" type="password" autocomplete="new-password" minlength="10" placeholder="10文字以上" required>
+                    <label for="confirmPassword">新しいパスワード（確認）</label>
+                    <input id="confirmPassword" type="password" autocomplete="new-password" minlength="10" required>
+                    <button class="btn primary wide" type="submit">パスワードを変更</button>
+                </form>
+                <div id="message" class="message" role="status" aria-live="polite"></div>
+                <button id="logout" class="btn secondary wide">ログアウト</button>
+                <a class="btn primary wide return-learning" href="index.html">学習画面に戻る</a>
+            </div>
+        </section>
+<script>
+const $=s=>document.querySelector(s), params=new URLSearchParams(location.search);let currentUser=null;
+function say(el,text,error=false){el.textContent=text;el.classList.toggle('error',error)}
+(async()=>{if(!authClient){say($('#message'),'Supabase接続設定がありません。',true);return}const {data:{session}}=await authClient.auth.getSession();if(!session){location.replace('login.html');return}currentUser=session.user;$('#accountId').textContent=currentUser.email.split('@')[0];const {data:profile}=await authClient.from('user_profiles').select('display_name').eq('user_id',currentUser.id).maybeSingle();$('#displayName').value=profile?.display_name||'';const forced=!!currentUser.app_metadata?.must_change_password||params.has('firstLogin');if(forced){say($('#firstNotice'),'初回ログインです。続ける前にパスワードを変更してください。')}})();
+$('#displayNameForm').onsubmit=async e=>{e.preventDefault();const name=$('#displayName').value.trim(),button=e.submitter;if(name.length>40){say($('#nameMessage'),'表示名は40文字以内で入力してください。',true);return}button.disabled=true;try{const {error}=await authClient.from('user_profiles').update({display_name:name}).eq('user_id',currentUser.id);if(error)throw error;say($('#nameMessage'),'表示名を保存しました。')}catch(err){say($('#nameMessage'),err.message||'保存できませんでした。',true)}finally{button.disabled=false}};
+$('#changeForm').onsubmit=async e=>{
+    e.preventDefault();
+    const button=e.submitter,old=$('#currentPassword').value,next=$('#newPassword').value,confirm=$('#confirmPassword').value;if(next.length<10){say($('#message'),'新しいパスワードは10文字以上にしてください。',true);return}if(next===old){say($('#message'),'現在とは異なるパスワードを設定してください。',true);return}if(next!==confirm){say($('#message'),'新しいパスワードが一致しません。',true);return}button.disabled=true;button.textContent='変更中…';try{const {error}=await authClient.functions.invoke('admin-create-user',{body:{action:'change-password',currentPassword:old,newPassword:next}});if(error)throw error;const refresh=await authClient.auth.refreshSession();if(refresh.error)await authClient.auth.signOut();say($('#message'),'パスワードを変更しました。学習画面へ移動します。');setTimeout(()=>location.replace(refresh.error?'login.html':'index.html'),1000)}catch(err){say($('#message'),err.message||'変更に失敗しました。',true);button.disabled=false;button.textContent='パスワードを変更'}};
+$('#logout').onclick=async()=>{
+    await authClient?.auth.signOut();
+    location.replace('login.html')};
+</script></body></html>

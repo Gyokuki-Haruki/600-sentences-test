@@ -1,0 +1,4805 @@
+{
+  "title": "英文例文集",
+  "sentences": [
+    {
+      "section": 1,
+      "number": 1,
+      "id": "s01-01",
+      "ja": "みなさん準備はいいですか。",
+      "en": "Are you ready to begin?",
+      "blank": "Are you [ready] to [begin]?"
+    },
+    {
+      "section": 1,
+      "number": 2,
+      "id": "s01-02",
+      "ja": "自己紹介をします。",
+      "en": "I'd like to introduce myself.",
+      "blank": "I'd like to [introduce] [myself]."
+    },
+    {
+      "section": 1,
+      "number": 3,
+      "id": "s01-03",
+      "ja": "終わりましたか。次は私の番です。",
+      "en": "Have you finished? It's my turn.",
+      "blank": "Have you [finished]? It's my [turn]."
+    },
+    {
+      "section": 1,
+      "number": 4,
+      "id": "s01-04",
+      "ja": "もう一度言ってください。",
+      "en": "Could you say that again, please?",
+      "blank": "Could you say that [again], [please]?"
+    },
+    {
+      "section": 1,
+      "number": 5,
+      "id": "s01-05",
+      "ja": "質問があります。",
+      "en": "May I ask a question?",
+      "blank": "May I [ask] a [question]?"
+    },
+    {
+      "section": 1,
+      "number": 6,
+      "id": "s01-06",
+      "ja": "20ページの5行目を見なさい。",
+      "en": "Look at line 5 on page 20.",
+      "blank": "[Look] at [line] 5 on page 20."
+    },
+    {
+      "section": 1,
+      "number": 7,
+      "id": "s01-07",
+      "ja": "すみませんが、それはどういうつづりですか。",
+      "en": "Excuse me, but how do you spell that?",
+      "blank": "[Excuse] me, but how do you [spell] that?"
+    },
+    {
+      "section": 1,
+      "number": 8,
+      "id": "s01-08",
+      "ja": "次回の予習は何をすればいいですか。",
+      "en": "What should we study for the next class?",
+      "blank": "What should we [study] for the next [class]?"
+    },
+    {
+      "section": 1,
+      "number": 9,
+      "id": "s01-09",
+      "ja": "「発音する」という単語の名詞形は何ですか。",
+      "en": "What is the noun for the word \"pronounce\"?",
+      "blank": "What is the [noun] for the word \"[pronounce]\"?"
+    },
+    {
+      "section": 1,
+      "number": 10,
+      "id": "s01-10",
+      "ja": "プリントを後ろから集めてくれますか。",
+      "en": "Can you collect the papers from the back?",
+      "blank": "Can you [collect] the [papers] from the back?"
+    },
+    {
+      "section": 1,
+      "number": 11,
+      "id": "s01-11",
+      "ja": "improveという語を辞典で調べなさい。",
+      "en": "Look up the word \"improve\" in your dictionary.",
+      "blank": "Look up the word \"[improve]\" in your [dictionary]."
+    },
+    {
+      "section": 1,
+      "number": 12,
+      "id": "s01-12",
+      "ja": "読み終えた人は手を挙げてください。",
+      "en": "If you have finished reading, please raise your hand.",
+      "blank": "If you have [finished] [reading], [please] raise your hand."
+    },
+    {
+      "section": 1,
+      "number": 13,
+      "id": "s01-13",
+      "ja": "山元先生に用事があります。入ってもいいですか。",
+      "en": "I need to talk to Mr. Yamamoto. May I come in?",
+      "blank": "I need to talk to Mr. [Yamamoto]. May I [come in]?"
+    },
+    {
+      "section": 1,
+      "number": 14,
+      "id": "s01-14",
+      "ja": "宿題の提出期限は来週の火曜日ですか。",
+      "en": "Should we submit the homework by next Tuesday?",
+      "blank": "Should we [submit] the [homework] by next [Tuesday]?"
+    },
+    {
+      "section": 1,
+      "number": 15,
+      "id": "s01-15",
+      "ja": "言いたいことは分かりますが、賛成できません。",
+      "en": "I see your point, but I'm afraid I cannot agree with you.",
+      "blank": "I see your point, but I'm [afraid] I [cannot] [agree with] you."
+    },
+    {
+      "section": 2,
+      "number": 1,
+      "id": "s02-01",
+      "ja": "学校は8時に始まります。",
+      "en": "School begins at eight.",
+      "blank": "[School] [begins] at [eight]."
+    },
+    {
+      "section": 2,
+      "number": 2,
+      "id": "s02-02",
+      "ja": "彼女はたいていバスで学校に来ます。",
+      "en": "She usually comes to school by bus.",
+      "blank": "She [usually] [comes] to [school] by bus."
+    },
+    {
+      "section": 2,
+      "number": 3,
+      "id": "s02-03",
+      "ja": "彼は去年ヨーロッパ中を旅行しました。",
+      "en": "He traveled all over Europe last year.",
+      "blank": "He [traveled] all over [Europe] last year."
+    },
+    {
+      "section": 2,
+      "number": 4,
+      "id": "s02-04",
+      "ja": "伯父は先週、アメリカに出発しました。",
+      "en": "My uncle left for America last week.",
+      "blank": "My [uncle] left for [America] last week."
+    },
+    {
+      "section": 2,
+      "number": 5,
+      "id": "s02-05",
+      "ja": "1年は12か月です。",
+      "en": "There are twelve months in a year.",
+      "blank": "[There are] [twelve] [months] in a year."
+    },
+    {
+      "section": 2,
+      "number": 6,
+      "id": "s02-06",
+      "ja": "スミス先生は職員室にいます。",
+      "en": "Ms. Smith is in the teachers' room.",
+      "blank": "Ms. [Smith] is in the [teachers]' room."
+    },
+    {
+      "section": 2,
+      "number": 7,
+      "id": "s02-07",
+      "ja": "太陽は東から昇り、西に沈みます。",
+      "en": "The sun rises in the east and sets in the west.",
+      "blank": "The sun [rises] in the [east] and sets in the west."
+    },
+    {
+      "section": 2,
+      "number": 8,
+      "id": "s02-08",
+      "ja": "祖父は70歳です。",
+      "en": "My grandfather is seventy years old.",
+      "blank": "My [grandfather] is [seventy] [years] old."
+    },
+    {
+      "section": 2,
+      "number": 9,
+      "id": "s02-09",
+      "ja": "彼女は小さいとき、恥ずかしがり屋でした。",
+      "en": "She was shy when she was young.",
+      "blank": "She was [shy] when she was [young]."
+    },
+    {
+      "section": 2,
+      "number": 10,
+      "id": "s02-10",
+      "ja": "彼は1週間かそこらで元気になるでしょう。",
+      "en": "He will get well in a week or so.",
+      "blank": "He will get [well] in a [week] or so."
+    },
+    {
+      "section": 2,
+      "number": 11,
+      "id": "s02-11",
+      "ja": "この部屋では静かにしていなければいけません。",
+      "en": "You must keep quiet in this room.",
+      "blank": "You must [keep] [quiet] in this room."
+    },
+    {
+      "section": 2,
+      "number": 12,
+      "id": "s02-12",
+      "ja": "顔色が悪いようですが、どうしたのですか。",
+      "en": "What's the matter? You look pale.",
+      "blank": "What's the [matter]? You [look] pale."
+    },
+    {
+      "section": 2,
+      "number": 13,
+      "id": "s02-13",
+      "ja": "このパイはおいしい。",
+      "en": "This pie tastes good.",
+      "blank": "This pie [tastes] [good]."
+    },
+    {
+      "section": 2,
+      "number": 14,
+      "id": "s02-14",
+      "ja": "あなたの考えはとても良さそうですね。",
+      "en": "Your idea sounds great.",
+      "blank": "Your idea [sounds] [great]."
+    },
+    {
+      "section": 2,
+      "number": 15,
+      "id": "s02-15",
+      "ja": "彼はその結果に失望しているようです。",
+      "en": "He seems disappointed with the result.",
+      "blank": "He [seems] [disappointed] with the [result]."
+    },
+    {
+      "section": 3,
+      "number": 1,
+      "id": "s03-01",
+      "ja": "私は彼女たち全員を知っています。",
+      "en": "I know all of them.",
+      "blank": "I [know] [all] of them."
+    },
+    {
+      "section": 3,
+      "number": 2,
+      "id": "s03-02",
+      "ja": "私はその本をナンシーから借りました。",
+      "en": "I borrowed the book from Nancy.",
+      "blank": "I [borrowed] the book from [Nancy]."
+    },
+    {
+      "section": 3,
+      "number": 3,
+      "id": "s03-03",
+      "ja": "パーティーは楽しかったですか。",
+      "en": "Did you enjoy yourself at the party?",
+      "blank": "Did you [enjoy] [yourself] at the [party]?"
+    },
+    {
+      "section": 3,
+      "number": 4,
+      "id": "s03-04",
+      "ja": "彼のおじさんはマイアミでレストランを経営しています。",
+      "en": "His uncle runs a restaurant in Miami.",
+      "blank": "His [uncle] runs a [restaurant] in [Miami]."
+    },
+    {
+      "section": 3,
+      "number": 5,
+      "id": "s03-05",
+      "ja": "彼女の弟は外国の雑誌をたくさん持っています。",
+      "en": "Her brother has a lot of foreign magazines.",
+      "blank": "Her [brother] has [a lot of] foreign [magazines]."
+    },
+    {
+      "section": 3,
+      "number": 6,
+      "id": "s03-06",
+      "ja": "私たちはその問題について何時間も議論しました。",
+      "en": "We discussed the issue for hours.",
+      "blank": "We [discussed] the [issue] for [hours]."
+    },
+    {
+      "section": 3,
+      "number": 7,
+      "id": "s03-07",
+      "ja": "私は彼が正直な人だと信じています。",
+      "en": "I believe that he is an honest person.",
+      "blank": "I [believe] that he is an [honest] [person]."
+    },
+    {
+      "section": 3,
+      "number": 8,
+      "id": "s03-08",
+      "ja": "牛は私たちにミルクを与えてくれます。",
+      "en": "Cows give us milk.",
+      "blank": "[Cows] [give] us milk."
+    },
+    {
+      "section": 3,
+      "number": 9,
+      "id": "s03-09",
+      "ja": "誰がそんな大金をあなたに貸したのですか。",
+      "en": "Who lent you so much money?",
+      "blank": "Who [lent] you so much [money]?"
+    },
+    {
+      "section": 3,
+      "number": 10,
+      "id": "s03-10",
+      "ja": "先日、おばさんが私に辞典を買ってくれました。",
+      "en": "My aunt bought me a dictionary the other day.",
+      "blank": "My aunt [bought] me a [dictionary] the [other] day."
+    },
+    {
+      "section": 3,
+      "number": 11,
+      "id": "s03-11",
+      "ja": "この薬はいくらか効くでしょう。",
+      "en": "This medicine will do you some good.",
+      "blank": "This [medicine] will do you [some] good."
+    },
+    {
+      "section": 3,
+      "number": 12,
+      "id": "s03-12",
+      "ja": "あなたの写真をいつか私に見せてくれませんか。",
+      "en": "Will you show me your photos sometime?",
+      "blank": "Will you show me your [photos] [sometime]?"
+    },
+    {
+      "section": 3,
+      "number": 13,
+      "id": "s03-13",
+      "ja": "この話を読めば、私たちは前向きであるべきだと分かるでしょう。",
+      "en": "This story tells us that we should be positive.",
+      "blank": "This [story] [tells] us that we should be [positive]."
+    },
+    {
+      "section": 3,
+      "number": 14,
+      "id": "s03-14",
+      "ja": "東京駅への行き方を教えていただけませんか。",
+      "en": "Could you tell me how to get to Tokyo Station?",
+      "blank": "Could you tell me how to get to [Tokyo] [Station]?"
+    },
+    {
+      "section": 3,
+      "number": 15,
+      "id": "s03-15",
+      "ja": "彼女に明日来られるかどうか尋ねてくださいませんか。",
+      "en": "Would you ask her if she can come tomorrow?",
+      "blank": "Would you ask her if she can [come] [tomorrow]?"
+    },
+    {
+      "section": 4,
+      "number": 1,
+      "id": "s04-01",
+      "ja": "私をジムと呼んでくださっていいですよ。",
+      "en": "You can call me Jim.",
+      "blank": "You can [call] me [Jim]."
+    },
+    {
+      "section": 4,
+      "number": 2,
+      "id": "s04-02",
+      "ja": "彼らは自分たちの赤ちゃんをエマと名付けました。",
+      "en": "They named their baby Emma.",
+      "blank": "They [named] their [baby] Emma."
+    },
+    {
+      "section": 4,
+      "number": 3,
+      "id": "s04-03",
+      "ja": "妹はいつも部屋をきれいにしています。",
+      "en": "My sister always keeps her room clean.",
+      "blank": "My [sister] [always] [keeps] her room clean."
+    },
+    {
+      "section": 4,
+      "number": 4,
+      "id": "s04-04",
+      "ja": "読んでみたら、その本はたいへん興味深いことが分かりました。",
+      "en": "I found the book very interesting.",
+      "blank": "I [found] the book very [interesting]."
+    },
+    {
+      "section": 4,
+      "number": 5,
+      "id": "s04-05",
+      "ja": "ドアを開けっ放しにしておいてはいけません。",
+      "en": "Don't leave the door open.",
+      "blank": "[Don't] [leave] the door open."
+    },
+    {
+      "section": 4,
+      "number": 6,
+      "id": "s04-06",
+      "ja": "本当のことを知れば君は気が楽になるでしょう。",
+      "en": "The truth will set you free.",
+      "blank": "The [truth] will set you [free]."
+    },
+    {
+      "section": 4,
+      "number": 7,
+      "id": "s04-07",
+      "ja": "私たちは彼を学級委員長に選びました。",
+      "en": "We elected him class president.",
+      "blank": "We [elected] him [class] [president]."
+    },
+    {
+      "section": 4,
+      "number": 8,
+      "id": "s04-08",
+      "ja": "その知らせを聞いて私はうれしくなりました。",
+      "en": "The news made me happy.",
+      "blank": "The [news] made me [happy]."
+    },
+    {
+      "section": 4,
+      "number": 9,
+      "id": "s04-09",
+      "ja": "どうして彼はそんなに怒ったのですか。",
+      "en": "What made him so angry?",
+      "blank": "What [made] him so [angry]?"
+    },
+    {
+      "section": 4,
+      "number": 10,
+      "id": "s04-10",
+      "ja": "今の私があるのはあなたのおかげです。",
+      "en": "You have made me what I am.",
+      "blank": "You [have] [made] me what I am."
+    },
+    {
+      "section": 4,
+      "number": 11,
+      "id": "s04-11",
+      "ja": "私たちはエミリーが通りを横切るのを見ました。",
+      "en": "We saw Emily walk across the street.",
+      "blank": "We saw [Emily] walk [across] the [street]."
+    },
+    {
+      "section": 4,
+      "number": 12,
+      "id": "s04-12",
+      "ja": "彼女は赤ちゃんが泣いているのを耳にしました。",
+      "en": "She heard her baby crying.",
+      "blank": "She [heard] her baby [crying]."
+    },
+    {
+      "section": 4,
+      "number": 13,
+      "id": "s04-13",
+      "ja": "私は散髪をしてもらわなければなりません。",
+      "en": "I must have my hair cut.",
+      "blank": "I must have my [hair] [cut]."
+    },
+    {
+      "section": 4,
+      "number": 14,
+      "id": "s04-14",
+      "ja": "どうぞおくつろぎください。",
+      "en": "Please make yourself at home.",
+      "blank": "[Please] make [yourself] at home."
+    },
+    {
+      "section": 4,
+      "number": 15,
+      "id": "s04-15",
+      "ja": "父は混んだ列車の中で財布を盗まれました。",
+      "en": "My father had his wallet stolen on the crowded train.",
+      "blank": "My [father] had his [wallet] stolen on the [crowded] train."
+    },
+    {
+      "section": 5,
+      "number": 1,
+      "id": "s05-01",
+      "ja": "私は吹奏楽部に入っています。",
+      "en": "I belong to the brass band club.",
+      "blank": "I [belong] to the [brass] band club."
+    },
+    {
+      "section": 5,
+      "number": 2,
+      "id": "s05-02",
+      "ja": "私はいつも朝食にトーストを食べます。",
+      "en": "I always have toast for breakfast.",
+      "blank": "I [always] have [toast] for [breakfast]."
+    },
+    {
+      "section": 5,
+      "number": 3,
+      "id": "s05-03",
+      "ja": "習うより慣れよ。",
+      "en": "Practice makes perfect.",
+      "blank": "[Practice] [makes] [perfect]."
+    },
+    {
+      "section": 5,
+      "number": 4,
+      "id": "s05-04",
+      "ja": "電車はあと1時間出ません。",
+      "en": "The train doesn't leave for another hour.",
+      "blank": "The train [doesn't] [leave for] [another] hour."
+    },
+    {
+      "section": 5,
+      "number": 5,
+      "id": "s05-05",
+      "ja": "弟が昼食を作ってくれました。",
+      "en": "My little brother cooked me lunch.",
+      "blank": "My [little] [brother] [cooked] me lunch."
+    },
+    {
+      "section": 5,
+      "number": 6,
+      "id": "s05-06",
+      "ja": "彼は放課後毎日野球をしていました。",
+      "en": "He played baseball after school every day.",
+      "blank": "He [played] [baseball] after [school] every day."
+    },
+    {
+      "section": 5,
+      "number": 7,
+      "id": "s05-07",
+      "ja": "私はその当時、善悪の判断がつきませんでした。",
+      "en": "I didn't know right from wrong at that time.",
+      "blank": "I [didn't] know [right] from [wrong] at that time."
+    },
+    {
+      "section": 5,
+      "number": 8,
+      "id": "s05-08",
+      "ja": "午後に雨が降るでしょう。",
+      "en": "It will rain in the afternoon.",
+      "blank": "It will [rain] in the [afternoon]."
+    },
+    {
+      "section": 5,
+      "number": 9,
+      "id": "s05-09",
+      "ja": "彼女が戻ったら、あなたに電話するように伝えますね。",
+      "en": "I will tell her to call you when she comes back.",
+      "blank": "I will [tell] her to call you when she [comes] back."
+    },
+    {
+      "section": 5,
+      "number": 10,
+      "id": "s05-10",
+      "ja": "私は来月伯父を訪ねるつもりだ。",
+      "en": "I am going to visit my uncle next month.",
+      "blank": "I am [going] to [visit] my [uncle] next month."
+    },
+    {
+      "section": 5,
+      "number": 11,
+      "id": "s05-11",
+      "ja": "具合が良くなったら、すぐ学校に行くよ。",
+      "en": "As soon as I get better, I will go to school.",
+      "blank": "[As soon as] I get [better], I will go to [school]."
+    },
+    {
+      "section": 5,
+      "number": 12,
+      "id": "s05-12",
+      "ja": "来月、ハワイに行こうかと思っています。",
+      "en": "I am thinking of going to Hawaii next month.",
+      "blank": "I am [thinking] of [going] to Hawaii next [month]."
+    },
+    {
+      "section": 5,
+      "number": 13,
+      "id": "s05-13",
+      "ja": "インターネットで情報を探しているところです。",
+      "en": "I am looking for the information on the Internet.",
+      "blank": "I am [looking] for the [information] on the [Internet]."
+    },
+    {
+      "section": 5,
+      "number": 14,
+      "id": "s05-14",
+      "ja": "女の子たちはラジオで音楽を聞いていました。",
+      "en": "The girls were listening to music on the radio.",
+      "blank": "The [girls] were [listening] to [music] on the radio."
+    },
+    {
+      "section": 5,
+      "number": 15,
+      "id": "s05-15",
+      "ja": "明日の今頃はハワイの海辺で寝そべっているでしょう。",
+      "en": "I'll be lying on a beach in Hawaii about this time tomorrow.",
+      "blank": "I'll be [lying] on a [beach] in Hawaii about this time [tomorrow]."
+    },
+    {
+      "section": 6,
+      "number": 1,
+      "id": "s06-01",
+      "ja": "彼らはもう朝食をとりました。",
+      "en": "They have already had breakfast.",
+      "blank": "They have [already] had [breakfast]."
+    },
+    {
+      "section": 6,
+      "number": 2,
+      "id": "s06-02",
+      "ja": "私はまだ宿題を済ませていません。",
+      "en": "I've not finished my homework yet.",
+      "blank": "I've not [finished] my [homework] yet."
+    },
+    {
+      "section": 6,
+      "number": 3,
+      "id": "s06-03",
+      "ja": "私はこの小説を以前読んだことがあります。",
+      "en": "I have read this novel before.",
+      "blank": "I have [read] this [novel] before."
+    },
+    {
+      "section": 6,
+      "number": 4,
+      "id": "s06-04",
+      "ja": "「あなたは富士山に登ったことがありますか」「いいえ、ありません」",
+      "en": "\"Have you ever climbed Mt. Fuji?\" \"No, I haven't.\"",
+      "blank": "\"Have you ever [climbed] Mt. Fuji?\" \"No, I [haven't].\""
+    },
+    {
+      "section": 6,
+      "number": 5,
+      "id": "s06-05",
+      "ja": "彼を見送りに空港へ行って来たところです。",
+      "en": "I have just been to the airport to see him off.",
+      "blank": "I have [just] been to the [airport] to see him off."
+    },
+    {
+      "section": 6,
+      "number": 6,
+      "id": "s06-06",
+      "ja": "彼女は仕事でアメリカへ行っています。",
+      "en": "She has gone to the United States on business.",
+      "blank": "She has gone to the [United] [States] on [business]."
+    },
+    {
+      "section": 6,
+      "number": 7,
+      "id": "s06-07",
+      "ja": "「あなたはカメラをどうしましたか」「なくしてしまいました」",
+      "en": "\"What have you done with your camera?\" \"I have lost it.\"",
+      "blank": "\"What have you [done] with your [camera]?\" \"I have lost it.\""
+    },
+    {
+      "section": 6,
+      "number": 8,
+      "id": "s06-08",
+      "ja": "今月は雨が多かったです。",
+      "en": "We have had a lot of rain this month.",
+      "blank": "We have had [a lot of] rain this [month]."
+    },
+    {
+      "section": 6,
+      "number": 9,
+      "id": "s06-09",
+      "ja": "「もうベルが鳴りましたか」「いいえ、まだです」",
+      "en": "\"Has the bell rung yet?\" \"No, not yet.\"",
+      "blank": "\"Has the [bell] [rung] yet?\" \"No, not yet.\""
+    },
+    {
+      "section": 6,
+      "number": 10,
+      "id": "s06-10",
+      "ja": "私はこんなに美しい夕日を見たことがありません。",
+      "en": "I have never seen such a beautiful sunset.",
+      "blank": "I have [never] seen such a [beautiful] [sunset]."
+    },
+    {
+      "section": 6,
+      "number": 11,
+      "id": "s06-11",
+      "ja": "私は彼女が文句を言うのを聞いたことがありません。",
+      "en": "I have never heard her complain.",
+      "blank": "I have [never] [heard] her [complain]."
+    },
+    {
+      "section": 6,
+      "number": 12,
+      "id": "s06-12",
+      "ja": "「あなたは何回京都へ行ったことがありますか」「2回あります」",
+      "en": "\"How many times have you been to Kyoto?\" \"I have been there twice.\"",
+      "blank": "\"How many [times] have you been to [Kyoto]?\" \"I have been there [twice].\""
+    },
+    {
+      "section": 6,
+      "number": 13,
+      "id": "s06-13",
+      "ja": "彼女とは長いこと会っていません。",
+      "en": "I've not seen her for a long time.",
+      "blank": "[I've] not [seen] her for a long time."
+    },
+    {
+      "section": 6,
+      "number": 14,
+      "id": "s06-14",
+      "ja": "彼が亡くなってから3年になります。",
+      "en": "He has been dead for three years.",
+      "blank": "He has been [dead] [for three years]."
+    },
+    {
+      "section": 6,
+      "number": 15,
+      "id": "s06-15",
+      "ja": "私たちが新しい家に引っ越して5年たちました。",
+      "en": "Five years have passed since we moved to our new house.",
+      "blank": "Five [years] have [passed] since we [moved] to our new house."
+    },
+    {
+      "section": 7,
+      "number": 1,
+      "id": "s07-01",
+      "ja": "彼は1週間前から病気です。",
+      "en": "He has been sick for a week.",
+      "blank": "He has been [sick] [for a week]."
+    },
+    {
+      "section": 7,
+      "number": 2,
+      "id": "s07-02",
+      "ja": "彼から3年間連絡がありません。",
+      "en": "We haven't heard from him for three years.",
+      "blank": "We [haven't] [heard] from him [for three years]."
+    },
+    {
+      "section": 7,
+      "number": 3,
+      "id": "s07-03",
+      "ja": "君はどのくらいの期間、英語の勉強をしていますか。",
+      "en": "How long have you been studying English?",
+      "blank": "[How long] have you been [studying] [English]?"
+    },
+    {
+      "section": 7,
+      "number": 4,
+      "id": "s07-04",
+      "ja": "私はここに5か月前から住んでいます。",
+      "en": "I have been living here for five months.",
+      "blank": "I have been [living] here for five [months]."
+    },
+    {
+      "section": 7,
+      "number": 5,
+      "id": "s07-05",
+      "ja": "私はこの2週間、伯父のところに滞在しています。",
+      "en": "I have been staying at my uncle's for the last two weeks.",
+      "blank": "I have been [staying] at my [uncle's] for the last two [weeks]."
+    },
+    {
+      "section": 7,
+      "number": 6,
+      "id": "s07-06",
+      "ja": "私たちは子どものときからお互いに知っています。",
+      "en": "We have known each other since we were children.",
+      "blank": "We have [known] each [other] since we were [children]."
+    },
+    {
+      "section": 7,
+      "number": 7,
+      "id": "s07-07",
+      "ja": "私はずっと期末考査の準備で忙しいです。",
+      "en": "I've been busy preparing for the final examination.",
+      "blank": "I've been busy [preparing] for the [final] [examination]."
+    },
+    {
+      "section": 7,
+      "number": 8,
+      "id": "s07-08",
+      "ja": "あなたは今までずっと何をしていたのですか。",
+      "en": "What have you been doing all this time?",
+      "blank": "What have you been [doing] all this [time]?"
+    },
+    {
+      "section": 7,
+      "number": 9,
+      "id": "s07-09",
+      "ja": "私がバス停に着いたとき、バスはもう出ていました。",
+      "en": "When I got to the bus stop, the bus had already left.",
+      "blank": "When I got to the bus [stop], the bus had [already] left."
+    },
+    {
+      "section": 7,
+      "number": 10,
+      "id": "s07-10",
+      "ja": "私はすぐ彼だと分かりました。というのは以前会ったことがあったからです。",
+      "en": "I recognized him at once, for I had seen him before.",
+      "blank": "I [recognized] him [at once], for I had seen him before."
+    },
+    {
+      "section": 7,
+      "number": 11,
+      "id": "s07-11",
+      "ja": "父はスイスで買った時計を私にくれました。",
+      "en": "My father gave me the watch that he had bought in Switzerland.",
+      "blank": "My [father] gave me the watch that he had [bought] in [Switzerland]."
+    },
+    {
+      "section": 7,
+      "number": 12,
+      "id": "s07-12",
+      "ja": "私たちが見舞いに行ったとき、彼女が入院してすでに1週間たっていました。",
+      "en": "She had been in the hospital for a week when we visited her.",
+      "blank": "She had been in the [hospital] [for a week] when we [visited] her."
+    },
+    {
+      "section": 7,
+      "number": 13,
+      "id": "s07-13",
+      "ja": "次の土曜日で私たちは結婚して10年目になります。",
+      "en": "Next Saturday we will have been married for ten years.",
+      "blank": "Next [Saturday] we will have been [married] for ten [years]."
+    },
+    {
+      "section": 7,
+      "number": 14,
+      "id": "s07-14",
+      "ja": "あなたが帰って来るころまでには、彼は家を出ているでしょう。",
+      "en": "He will have left home by the time you come back.",
+      "blank": "He will have left home [by the time] you [come back]."
+    },
+    {
+      "section": 7,
+      "number": 15,
+      "id": "s07-15",
+      "ja": "その雑誌を読んでしまったら私に貸してください。",
+      "en": "Please lend me the magazine when you have finished it.",
+      "blank": "[Please] lend me the [magazine] when you have [finished] it."
+    },
+    {
+      "section": 8,
+      "number": 1,
+      "id": "s08-01",
+      "ja": "あなたは自転車に乗れますか。",
+      "en": "Can you ride a bicycle?",
+      "blank": "Can you [ride] a [bicycle]?"
+    },
+    {
+      "section": 8,
+      "number": 2,
+      "id": "s08-02",
+      "ja": "明日の晩はお暇ですか。",
+      "en": "Will you be free tomorrow evening?",
+      "blank": "Will you be free [tomorrow] [evening]?"
+    },
+    {
+      "section": 8,
+      "number": 3,
+      "id": "s08-03",
+      "ja": "あなたは窓を開けたまま寝たのですか。",
+      "en": "Did you sleep with the windows open?",
+      "blank": "Did you [sleep] with the [windows] open?"
+    },
+    {
+      "section": 8,
+      "number": 4,
+      "id": "s08-04",
+      "ja": "「君は彼にお礼状を書かなかったのですか」「いいえ、書きました」",
+      "en": "\"Didn't you write him a letter of thanks?\" \"Yes, I did.\"",
+      "blank": "\"Didn't you [write] him a [letter] of [thanks]?\" \"Yes, I did.\""
+    },
+    {
+      "section": 8,
+      "number": 5,
+      "id": "s08-05",
+      "ja": "彼女はイギリス人ですか、アメリカ人ですか。",
+      "en": "Is she British or American?",
+      "blank": "Is she [British] or [American]?"
+    },
+    {
+      "section": 8,
+      "number": 6,
+      "id": "s08-06",
+      "ja": "コーヒーと紅茶のどちらがお好きですか。",
+      "en": "Which do you like better, coffee or tea?",
+      "blank": "Which do you like [better], [coffee] or tea?"
+    },
+    {
+      "section": 8,
+      "number": 7,
+      "id": "s08-07",
+      "ja": "コーヒーはどうしますか、ブラックにしますか、ミルクを入れますか。",
+      "en": "How do you like your coffee, black or with milk?",
+      "blank": "How do you like your [coffee], [black] or with milk?"
+    },
+    {
+      "section": 8,
+      "number": 8,
+      "id": "s08-08",
+      "ja": "カナダは美しい国ですね。",
+      "en": "Canada is a beautiful country, isn't it?",
+      "blank": "[Canada] is a [beautiful] [country], isn't it?"
+    },
+    {
+      "section": 8,
+      "number": 9,
+      "id": "s08-09",
+      "ja": "君はゆうべ彼女に電話しなかったのですね。",
+      "en": "You didn't call her last night, did you?",
+      "blank": "You [didn't] call her last [night], did you?"
+    },
+    {
+      "section": 8,
+      "number": 10,
+      "id": "s08-10",
+      "ja": "手伝いに来てくださいね。",
+      "en": "Come and help us, will you?",
+      "blank": "[Come] and [help] us, will you?"
+    },
+    {
+      "section": 8,
+      "number": 11,
+      "id": "s08-11",
+      "ja": "お茶を飲みましょうか。",
+      "en": "Let's have a cup of tea, shall we?",
+      "blank": "[Let's] have a [cup] of tea, shall we?"
+    },
+    {
+      "section": 8,
+      "number": 12,
+      "id": "s08-12",
+      "ja": "窓を割ったのは誰ですか。",
+      "en": "Who broke the window?",
+      "blank": "Who [broke] the [window]?"
+    },
+    {
+      "section": 8,
+      "number": 13,
+      "id": "s08-13",
+      "ja": "いつ大学を卒業しましたか。",
+      "en": "When did you graduate from university?",
+      "blank": "When did you [graduate] from [university]?"
+    },
+    {
+      "section": 8,
+      "number": 14,
+      "id": "s08-14",
+      "ja": "「学校にはどうやって行きますか」「自転車で行きます」",
+      "en": "\"How do you go to school?\" \"By bike.\"",
+      "blank": "\"How do you go to [school]?\" \"By [bike].\""
+    },
+    {
+      "section": 8,
+      "number": 15,
+      "id": "s08-15",
+      "ja": "どうして君はそんな失礼なことを彼女に言ったのですか。",
+      "en": "Why did you say such a rude thing to her?",
+      "blank": "Why did you say [such] a rude [thing] to her?"
+    },
+    {
+      "section": 9,
+      "number": 1,
+      "id": "s09-01",
+      "ja": "ブラジルの首都はどこですか。",
+      "en": "What is the capital of Brazil?",
+      "blank": "What is the [capital] of [Brazil]?"
+    },
+    {
+      "section": 9,
+      "number": 2,
+      "id": "s09-02",
+      "ja": "この市の人口はどのくらいですか。",
+      "en": "What is the population of this city?",
+      "blank": "What is the [population] of this [city]?"
+    },
+    {
+      "section": 9,
+      "number": 3,
+      "id": "s09-03",
+      "ja": "犬とオオカミの違いは何ですか。",
+      "en": "What is the difference between dogs and wolves?",
+      "blank": "What is the [difference] between dogs and [wolves]?"
+    },
+    {
+      "section": 9,
+      "number": 4,
+      "id": "s09-04",
+      "ja": "なぜあなたはそこへ行ったのですか。",
+      "en": "What did you go there for?",
+      "blank": "What did you [go] [there] for?"
+    },
+    {
+      "section": 9,
+      "number": 5,
+      "id": "s09-05",
+      "ja": "新しいお住まいはどんな感じですか。",
+      "en": "What is your new house like?",
+      "blank": "What is your new [house] [like]?"
+    },
+    {
+      "section": 9,
+      "number": 6,
+      "id": "s09-06",
+      "ja": "あなたはどの科目が一番好きですか。",
+      "en": "What subject do you like best?",
+      "blank": "What [subject] do you [like] best?"
+    },
+    {
+      "section": 9,
+      "number": 7,
+      "id": "s09-07",
+      "ja": "「これは誰の眼鏡ですか」「私のです」",
+      "en": "\"Whose glasses are these?\" \"They are mine.\"",
+      "blank": "\"[Whose] [glasses] are these?\" \"They are mine.\""
+    },
+    {
+      "section": 9,
+      "number": 8,
+      "id": "s09-08",
+      "ja": "なぜ彼が学校を欠席しているか知っていますか。",
+      "en": "Do you know why he is absent from school?",
+      "blank": "Do you know why he is [absent] from [school]?"
+    },
+    {
+      "section": 9,
+      "number": 9,
+      "id": "s09-09",
+      "ja": "なぜ彼女はあなたに怒ったと思いますか。",
+      "en": "Why do you think she got angry with you?",
+      "blank": "Why do you [think] she got [angry] with you?"
+    },
+    {
+      "section": 9,
+      "number": 10,
+      "id": "s09-10",
+      "ja": "いつまでホストファミリーのお宅に滞在する予定ですか。",
+      "en": "How long are you going to stay with your host family?",
+      "blank": "[How long] are you [going] to stay with your host [family]?"
+    },
+    {
+      "section": 9,
+      "number": 11,
+      "id": "s09-11",
+      "ja": "「あとどのくらいでここを出発しますか」「10分したら出発します」",
+      "en": "\"How soon are we leaving here?\" \"In ten minutes.\"",
+      "blank": "\"How soon are we [leaving] here?\" \"In ten [minutes].\""
+    },
+    {
+      "section": 9,
+      "number": 12,
+      "id": "s09-12",
+      "ja": "飛行機で成田からハワイまで行くのにどれくらい時間がかかりますか。",
+      "en": "How long does it take to fly from Narita to Hawaii?",
+      "blank": "[How long] does it take to fly from [Narita] to [Hawaii]?"
+    },
+    {
+      "section": 9,
+      "number": 13,
+      "id": "s09-13",
+      "ja": "君は先月は本代にいくら使いましたか。",
+      "en": "How much money did you spend on books last month?",
+      "blank": "How much [money] did you [spend] on [books] last month?"
+    },
+    {
+      "section": 9,
+      "number": 14,
+      "id": "s09-14",
+      "ja": "「ここのバスの便は何分おきですか」「10分おきです」",
+      "en": "\"How often do the buses run here?\" \"Every ten minutes.\"",
+      "blank": "\"How [often] do the [buses] run here?\" \"Every ten [minutes].\""
+    },
+    {
+      "section": 9,
+      "number": 15,
+      "id": "s09-15",
+      "ja": "ひょっとして佐藤さんのお住まいをご存じではありませんか。",
+      "en": "Do you happen to know where Mr. Sato lives?",
+      "blank": "Do you [happen] to know where Mr. Sato [lives]?"
+    },
+    {
+      "section": 10,
+      "number": 1,
+      "id": "s10-01",
+      "ja": "足元に気をつけて。",
+      "en": "Watch your step!",
+      "blank": "[Watch] your [step]!"
+    },
+    {
+      "section": 10,
+      "number": 2,
+      "id": "s10-02",
+      "ja": "他人には親切にしなさい。",
+      "en": "Be kind to other people.",
+      "blank": "Be kind to [other] [people]."
+    },
+    {
+      "section": 10,
+      "number": 3,
+      "id": "s10-03",
+      "ja": "彼はなんて走るのが速いのでしょう！",
+      "en": "What a fast runner he is!",
+      "blank": "What a [fast] [runner] he is!"
+    },
+    {
+      "section": 10,
+      "number": 4,
+      "id": "s10-04",
+      "ja": "この庭園はなんて美しいのでしょう！",
+      "en": "How beautiful this garden is!",
+      "blank": "How [beautiful] this [garden] is!"
+    },
+    {
+      "section": 10,
+      "number": 5,
+      "id": "s10-05",
+      "ja": "私の仕事を手伝ってください。",
+      "en": "Please help me with my work.",
+      "blank": "[Please] [help] me with my work."
+    },
+    {
+      "section": 10,
+      "number": 6,
+      "id": "s10-06",
+      "ja": "「塩を取ってください」「はい、どうぞ」",
+      "en": "\"Pass me the salt, please.\" \"Here it is.\"",
+      "blank": "\"Pass me the salt, [please].\" \"Here [it is].\""
+    },
+    {
+      "section": 10,
+      "number": 7,
+      "id": "s10-07",
+      "ja": "口いっぱいにほおばって話をしてはいけません。",
+      "en": "Don't talk with your mouth full.",
+      "blank": "[Don't] talk with your [mouth] full."
+    },
+    {
+      "section": 10,
+      "number": 8,
+      "id": "s10-08",
+      "ja": "子どもたちを駐車場で遊ばせないようにしなさい。",
+      "en": "Don't let the children play in the parking lot.",
+      "blank": "[Don't] let the [children] play in the [parking] lot."
+    },
+    {
+      "section": 10,
+      "number": 9,
+      "id": "s10-09",
+      "ja": "学校に遅れてはいけません。",
+      "en": "Don't be late for school.",
+      "blank": "[Don't] be late for [school]."
+    },
+    {
+      "section": 10,
+      "number": 10,
+      "id": "s10-10",
+      "ja": "その計画がうまくいったかどうかを確認してみましょう。",
+      "en": "Let's see whether the plan worked.",
+      "blank": "[Let's] see whether the plan [worked]."
+    },
+    {
+      "section": 10,
+      "number": 11,
+      "id": "s10-11",
+      "ja": "きっとすぐ手紙をくださいね。",
+      "en": "Be sure to write me soon.",
+      "blank": "Be [sure] to [write] me soon."
+    },
+    {
+      "section": 10,
+      "number": 12,
+      "id": "s10-12",
+      "ja": "かぜをひかないように気をつけなさい。",
+      "en": "Be careful not to catch cold.",
+      "blank": "Be [careful] not to [catch] cold."
+    },
+    {
+      "section": 10,
+      "number": 13,
+      "id": "s10-13",
+      "ja": "先生に尋ねなさい、そうすればどんな本を読んだらいいか教えてくださるでしょう。",
+      "en": "Ask your teacher, and she'll tell you what book you should read.",
+      "blank": "Ask your [teacher], and [she'll] tell you what book you should read."
+    },
+    {
+      "section": 10,
+      "number": 14,
+      "id": "s10-14",
+      "ja": "タクシーに乗りなさい、そうしないと急行列車に遅れますよ。",
+      "en": "Take a taxi, or you'll miss the express.",
+      "blank": "Take a taxi, or [you'll] miss the [express]."
+    },
+    {
+      "section": 10,
+      "number": 15,
+      "id": "s10-15",
+      "ja": "今日できることを明日まで延ばすな。＜ことわざ＞",
+      "en": "Never put off until tomorrow what you can do today.",
+      "blank": "[Never] [put off] until [tomorrow] what you can do today."
+    },
+    {
+      "section": 11,
+      "number": 1,
+      "id": "s11-01",
+      "ja": "私はあなたのためなら何でもします。",
+      "en": "I will do anything for you.",
+      "blank": "I will [do] [anything] for you."
+    },
+    {
+      "section": 11,
+      "number": 2,
+      "id": "s11-02",
+      "ja": "どういうご用件でしょうか。＜窓口で＞",
+      "en": "What can I do for you?",
+      "blank": "[What] can I [do] for you?"
+    },
+    {
+      "section": 11,
+      "number": 3,
+      "id": "s11-03",
+      "ja": "僕は君ほどテニスはうまくありません。",
+      "en": "I can't play tennis as well as you.",
+      "blank": "I [can't] play [tennis] [as well as] you."
+    },
+    {
+      "section": 11,
+      "number": 4,
+      "id": "s11-04",
+      "ja": "ぜひまたおいでください。",
+      "en": "Do come again.",
+      "blank": "Do [come] [again]."
+    },
+    {
+      "section": 11,
+      "number": 5,
+      "id": "s11-05",
+      "ja": "明日の午後は雨が降るかもしれません。",
+      "en": "It may rain tomorrow afternoon.",
+      "blank": "It may rain [tomorrow] [afternoon]."
+    },
+    {
+      "section": 11,
+      "number": 6,
+      "id": "s11-06",
+      "ja": "「あなたの隣に座ってもよろしいですか」「どうぞ」",
+      "en": "\"May I sit next to you?\" \"Of course.\"",
+      "blank": "\"May I sit [next] to you?\" \"Of [course].\""
+    },
+    {
+      "section": 11,
+      "number": 7,
+      "id": "s11-07",
+      "ja": "「窓を開けましょうか」「ええ、お願いします」",
+      "en": "\"Shall I open the window?\" \"Yes, please.\"",
+      "blank": "\"Shall I open the [window]?\" \"Yes, [please].\""
+    },
+    {
+      "section": 11,
+      "number": 8,
+      "id": "s11-08",
+      "ja": "「今出たらバスに間に合うでしょうか」「ええ、間に合うでしょう」",
+      "en": "\"Will I be in time for the bus if I go now?\" \"Yes, you will.\"",
+      "blank": "\"Will I be in [time] for the [bus] if I go now?\" \"Yes, you will.\""
+    },
+    {
+      "section": 11,
+      "number": 9,
+      "id": "s11-09",
+      "ja": "君のお母さんはいつ中国から帰国なさいますか。",
+      "en": "When will your mother return from China?",
+      "blank": "When will your [mother] [return] from [China]?"
+    },
+    {
+      "section": 11,
+      "number": 10,
+      "id": "s11-10",
+      "ja": "「ホテルまで私を乗せていってくれませんか」「もちろんですとも」",
+      "en": "\"Will you give me a ride to the hotel?\" \"By all means.\"",
+      "blank": "\"Will you give me a ride to the [hotel]?\" \"By all [means].\""
+    },
+    {
+      "section": 11,
+      "number": 11,
+      "id": "s11-11",
+      "ja": "博物館へ行く道をどうか教えていただけませんか。",
+      "en": "Would you please tell me the way to the museum?",
+      "blank": "Would you [please] tell me the way to the [museum]?"
+    },
+    {
+      "section": 11,
+      "number": 12,
+      "id": "s11-12",
+      "ja": "エンジンはどうしてもかかりませんでした。",
+      "en": "The engine wouldn't start.",
+      "blank": "The [engine] [wouldn't] [start]."
+    },
+    {
+      "section": 11,
+      "number": 13,
+      "id": "s11-13",
+      "ja": "あなたのご親切は決して忘れません。",
+      "en": "I shall never forget your kindness.",
+      "blank": "I shall [never] [forget] your [kindness]."
+    },
+    {
+      "section": 11,
+      "number": 14,
+      "id": "s11-14",
+      "ja": "今度の日曜日に遊びに来ませんか。",
+      "en": "Won't you come and see me next Sunday?",
+      "blank": "[Won't] you come and see me next [Sunday]?"
+    },
+    {
+      "section": 11,
+      "number": 15,
+      "id": "s11-15",
+      "ja": "あなたの赤ちゃんは数週間したら歩けるようになるでしょう。",
+      "en": "Your baby will be able to walk in a few weeks.",
+      "blank": "Your baby will [be able to] walk in [a few] [weeks]."
+    },
+    {
+      "section": 12,
+      "number": 1,
+      "id": "s12-01",
+      "ja": "彼女は今晩、次の授業の予習をしなければなりません。",
+      "en": "She must prepare for the next class tonight.",
+      "blank": "She must [prepare] for the next [class] [tonight]."
+    },
+    {
+      "section": 12,
+      "number": 2,
+      "id": "s12-02",
+      "ja": "スープを飲むときは音をたててはいけません。",
+      "en": "You must not make a noise when you eat soup.",
+      "blank": "You must not [make] a [noise] when you eat soup."
+    },
+    {
+      "section": 12,
+      "number": 3,
+      "id": "s12-03",
+      "ja": "彼は彼女のメールアドレスを知っているに違いない。",
+      "en": "He must know her email address.",
+      "blank": "He must know her [email] [address]."
+    },
+    {
+      "section": 12,
+      "number": 4,
+      "id": "s12-04",
+      "ja": "「ラジオを消さないといけませんか」「いいえ、それには及びません」",
+      "en": "\"Do I have to turn off the radio?\" \"No, you don't have to.\"",
+      "blank": "\"Do I [have to] [turn off] the radio?\" \"No, you don't [have to].\""
+    },
+    {
+      "section": 12,
+      "number": 5,
+      "id": "s12-05",
+      "ja": "「その報道はいったい本当だろうか」「いや、本当のはずがない」",
+      "en": "\"Can the report be true?\" \"No, it can't be true.\"",
+      "blank": "\"Can the [report] be true?\" \"No, it [can't] be true.\""
+    },
+    {
+      "section": 12,
+      "number": 6,
+      "id": "s12-06",
+      "ja": "君はもっと一生懸命に勉強すべきです。",
+      "en": "You ought to study harder.",
+      "blank": "You [ought] to [study] [harder]."
+    },
+    {
+      "section": 12,
+      "number": 7,
+      "id": "s12-07",
+      "ja": "今すぐ、家に帰りなさい。",
+      "en": "You had better go home right now.",
+      "blank": "You [had better] go home [right] now."
+    },
+    {
+      "section": 12,
+      "number": 8,
+      "id": "s12-08",
+      "ja": "私は毎週日曜日に海岸をよく散歩したものです。",
+      "en": "I used to walk along the seashore every Sunday.",
+      "blank": "I [used to] walk [along] the [seashore] every Sunday."
+    },
+    {
+      "section": 12,
+      "number": 9,
+      "id": "s12-09",
+      "ja": "彼女は休日にはよく私たちのところに遊びに来たものでした。",
+      "en": "She would often come and see us on holidays.",
+      "blank": "She would [often] come and see us on [holidays]."
+    },
+    {
+      "section": 12,
+      "number": 10,
+      "id": "s12-10",
+      "ja": "私は鍵をどこかに落としてしまったに違いない。",
+      "en": "I must have dropped my keys somewhere.",
+      "blank": "I must have [dropped] my keys [somewhere]."
+    },
+    {
+      "section": 12,
+      "number": 11,
+      "id": "s12-11",
+      "ja": "彼が本当のことを言ったはずがありません。",
+      "en": "He can't have told the truth.",
+      "blank": "He [can't] have told the [truth]."
+    },
+    {
+      "section": 12,
+      "number": 12,
+      "id": "s12-12",
+      "ja": "君はご両親に従うべきだったのに。",
+      "en": "You should have obeyed your parents.",
+      "blank": "You should have [obeyed] your [parents]."
+    },
+    {
+      "section": 12,
+      "number": 13,
+      "id": "s12-13",
+      "ja": "私たちは嵐のために出発を延期しなければなりませんでした。",
+      "en": "We had to put off our departure because of the storm.",
+      "blank": "We had to [put off] our [departure] [because of] the storm."
+    },
+    {
+      "section": 12,
+      "number": 14,
+      "id": "s12-14",
+      "ja": "緊急の際は、ただこのボタンを押しさえすればいいのです。",
+      "en": "In case of emergency, you only have to press this button.",
+      "blank": "In case of [emergency], you only [have to] [press] this button."
+    },
+    {
+      "section": 12,
+      "number": 15,
+      "id": "s12-15",
+      "ja": "こんないい天気の日は家にいるよりむしろ出かけたいです。",
+      "en": "I would rather go out than stay home in such nice weather.",
+      "blank": "I would [rather] [go out] than stay home in such nice [weather]."
+    },
+    {
+      "section": 13,
+      "number": 1,
+      "id": "s13-01",
+      "ja": "『ハムレット』はシェイクスピアによって書かれました。",
+      "en": "\"Hamlet\" was written by Shakespeare.",
+      "blank": "\"[Hamlet]\" was [written] by [Shakespeare]."
+    },
+    {
+      "section": 13,
+      "number": 2,
+      "id": "s13-02",
+      "ja": "ローマは1日にして成らず。＜ことわざ＞",
+      "en": "Rome was not built in a day.",
+      "blank": "[Rome] was not [built] in a day."
+    },
+    {
+      "section": 13,
+      "number": 3,
+      "id": "s13-03",
+      "ja": "あなたはパーティーに招待されましたか。",
+      "en": "Were you invited to the party?",
+      "blank": "Were you [invited] to the [party]?"
+    },
+    {
+      "section": 13,
+      "number": 4,
+      "id": "s13-04",
+      "ja": "カナダでは何語が話されていますか。",
+      "en": "What languages are spoken in Canada?",
+      "blank": "What [languages] are [spoken] in [Canada]?"
+    },
+    {
+      "section": 13,
+      "number": 5,
+      "id": "s13-05",
+      "ja": "ロンはハリーに笑われました。",
+      "en": "Ron was laughed at by Harry.",
+      "blank": "Ron was [laughed] at by [Harry]."
+    },
+    {
+      "section": 13,
+      "number": 6,
+      "id": "s13-06",
+      "ja": "私は公園で見知らぬ人から話しかけられました。",
+      "en": "I was spoken to by a stranger in the park.",
+      "blank": "I was [spoken] to by a [stranger] in the park."
+    },
+    {
+      "section": 13,
+      "number": 7,
+      "id": "s13-07",
+      "ja": "うちの犬が危うくトラックにひかれるところでした。",
+      "en": "Our dog was nearly run over by a truck.",
+      "blank": "Our dog was [nearly] [run over] by a [truck]."
+    },
+    {
+      "section": 13,
+      "number": 8,
+      "id": "s13-08",
+      "ja": "青色LEDは日本人科学者によって発明されました。",
+      "en": "The blue LED was invented by Japanese scientists.",
+      "blank": "The blue LED was [invented] by [Japanese] [scientists]."
+    },
+    {
+      "section": 13,
+      "number": 9,
+      "id": "s13-09",
+      "ja": "東京は2020年のオリンピック開催地として選ばれました。",
+      "en": "Tokyo was chosen as the 2020 Olympic host.",
+      "blank": "[Tokyo] was [chosen] as the 2020 [Olympic] host."
+    },
+    {
+      "section": 13,
+      "number": 10,
+      "id": "s13-10",
+      "ja": "幸いなことに、その事故による死者はいませんでした。",
+      "en": "Fortunately, nobody was killed in the accident.",
+      "blank": "[Fortunately], nobody was [killed] in the [accident]."
+    },
+    {
+      "section": 13,
+      "number": 11,
+      "id": "s13-11",
+      "ja": "私の車は今、修理中です。",
+      "en": "My car is being fixed now.",
+      "blank": "My [car] is being [fixed] now."
+    },
+    {
+      "section": 13,
+      "number": 12,
+      "id": "s13-12",
+      "ja": "この詩は誰が書いたのですか。",
+      "en": "Who was this poem written by?",
+      "blank": "Who was this [poem] [written] by?"
+    },
+    {
+      "section": 13,
+      "number": 13,
+      "id": "s13-13",
+      "ja": "この本は多くの人々に読まれるでしょう。",
+      "en": "This book will be read by lots of people.",
+      "blank": "This book will be read by [lots of] [people]."
+    },
+    {
+      "section": 13,
+      "number": 14,
+      "id": "s13-14",
+      "ja": "ドアは開けっ放しにしておいてはいけません。",
+      "en": "The door must not be left open.",
+      "blank": "The [door] must not be [left] open."
+    },
+    {
+      "section": 13,
+      "number": 15,
+      "id": "s13-15",
+      "ja": "その少年はおばさんの世話を受けるでしょう。",
+      "en": "The boy will be taken care of by his aunt.",
+      "blank": "The boy will be [taken] [care] of by his aunt."
+    },
+    {
+      "section": 14,
+      "number": 1,
+      "id": "s14-01",
+      "ja": "2人の男性が昨夜の火事でけがをしました。",
+      "en": "Two men got injured in the fire last night.",
+      "blank": "Two men got [injured] in the fire last [night]."
+    },
+    {
+      "section": 14,
+      "number": 2,
+      "id": "s14-02",
+      "ja": "そのニュースを聞いて驚きました。",
+      "en": "I was surprised at the news.",
+      "blank": "I was [surprised] at the [news]."
+    },
+    {
+      "section": 14,
+      "number": 3,
+      "id": "s14-03",
+      "ja": "私の妹はクラシック音楽に興味があります。",
+      "en": "My sister is interested in classical music.",
+      "blank": "My [sister] is [interested] in [classical] music."
+    },
+    {
+      "section": 14,
+      "number": 4,
+      "id": "s14-04",
+      "ja": "その話はほとんどの子どもに知られています。",
+      "en": "The story is known to most children.",
+      "blank": "The [story] is [known] to most [children]."
+    },
+    {
+      "section": 14,
+      "number": 5,
+      "id": "s14-05",
+      "ja": "彼女の目は涙でいっぱいでした。",
+      "en": "Her eyes were filled with tears.",
+      "blank": "Her eyes were [filled] with [tears]."
+    },
+    {
+      "section": 14,
+      "number": 6,
+      "id": "s14-06",
+      "ja": "私たちはその結果に満足しています。",
+      "en": "We are satisfied with the result.",
+      "blank": "We are [satisfied] with the [result]."
+    },
+    {
+      "section": 14,
+      "number": 7,
+      "id": "s14-07",
+      "ja": "私たちは家に帰る途中、にわか雨にあいました。",
+      "en": "We were caught in a shower on our way home.",
+      "blank": "We were [caught] in a [shower] on our way home."
+    },
+    {
+      "section": 14,
+      "number": 8,
+      "id": "s14-08",
+      "ja": "彼らは新しい家が気に入っています。",
+      "en": "They are pleased with their new house.",
+      "blank": "They are [pleased] with their new [house]."
+    },
+    {
+      "section": 14,
+      "number": 9,
+      "id": "s14-09",
+      "ja": "エベレスト山は1年中雪に覆われています。",
+      "en": "Mt. Everest is covered with snow all year round.",
+      "blank": "Mt. [Everest] is [covered] with snow all year [round]."
+    },
+    {
+      "section": 14,
+      "number": 10,
+      "id": "s14-10",
+      "ja": "その書類はまだ送付されていません。",
+      "en": "The document has not been sent yet.",
+      "blank": "The [document] has not been [sent] yet."
+    },
+    {
+      "section": 14,
+      "number": 11,
+      "id": "s14-11",
+      "ja": "それ以来彼の消息は途絶えています。",
+      "en": "He has not been heard of ever since.",
+      "blank": "He has not been [heard] of ever [since]."
+    },
+    {
+      "section": 14,
+      "number": 12,
+      "id": "s14-12",
+      "ja": "彼女がコンビニに入っていくのが見えました。",
+      "en": "She was seen entering the convenience store.",
+      "blank": "She was seen [entering] the [convenience] [store]."
+    },
+    {
+      "section": 14,
+      "number": 13,
+      "id": "s14-13",
+      "ja": "彼女は1時間以上待たされました。",
+      "en": "She was made to wait for over an hour.",
+      "blank": "She was [made] to [wait for] over an hour."
+    },
+    {
+      "section": 14,
+      "number": 14,
+      "id": "s14-14",
+      "ja": "彼はユーモアの分かる人だそうです。",
+      "en": "It is said that he has a sense of humor.",
+      "blank": "[It is] said that he has a [sense] of [humor]."
+    },
+    {
+      "section": 14,
+      "number": 15,
+      "id": "s14-15",
+      "ja": "彼女のお母さんはとても思いやりがあるそうです。",
+      "en": "Her mother is said to be very considerate.",
+      "blank": "Her [mother] is said to be very [considerate]."
+    },
+    {
+      "section": 15,
+      "number": 1,
+      "id": "s15-01",
+      "ja": "私はスペイン語がまったく分かりません。",
+      "en": "I don't know Spanish at all.",
+      "blank": "I [don't] know [Spanish] at all."
+    },
+    {
+      "section": 15,
+      "number": 2,
+      "id": "s15-02",
+      "ja": "私は最近、まったく手紙を書きません。",
+      "en": "I don't write any letters these days.",
+      "blank": "I [don't] [write] any [letters] these days."
+    },
+    {
+      "section": 15,
+      "number": 3,
+      "id": "s15-03",
+      "ja": "彼らもその結果を知らないかもしれません。",
+      "en": "They may not know the results either.",
+      "blank": "They may not know the [results] [either]."
+    },
+    {
+      "section": 15,
+      "number": 4,
+      "id": "s15-04",
+      "ja": "ケイトは肉をまったく食べません。",
+      "en": "Kate never eats meat.",
+      "blank": "[Kate] [never] eats meat."
+    },
+    {
+      "section": 15,
+      "number": 5,
+      "id": "s15-05",
+      "ja": "私は今、お金の持ち合わせがありません。",
+      "en": "I have no money with me now.",
+      "blank": "I have no [money] with me [now]."
+    },
+    {
+      "section": 15,
+      "number": 6,
+      "id": "s15-06",
+      "ja": "今日は特に何もすることはありませんでした。",
+      "en": "I had nothing special to do today.",
+      "blank": "I had [nothing] [special] to do [today]."
+    },
+    {
+      "section": 15,
+      "number": 7,
+      "id": "s15-07",
+      "ja": "彼女はもうパースに住んでいません。",
+      "en": "She no longer lives in Perth.",
+      "blank": "She no [longer] [lives] in [Perth]."
+    },
+    {
+      "section": 15,
+      "number": 8,
+      "id": "s15-08",
+      "ja": "「雨は降らないと思います」「私もそう思います」",
+      "en": "\"I don't think it will rain.\" \"Neither do I.\"",
+      "blank": "\"I [don't] [think] it will rain.\" \"[Neither] do I.\""
+    },
+    {
+      "section": 15,
+      "number": 9,
+      "id": "s15-09",
+      "ja": "「今夜パーティーに来られますか」「残念ながら行けません」",
+      "en": "\"Can you come to the party tonight?\" \"I'm afraid not.\"",
+      "blank": "\"Can you come to the [party] [tonight]?\" \"I'm [afraid] not.\""
+    },
+    {
+      "section": 15,
+      "number": 10,
+      "id": "s15-10",
+      "ja": "彼のことを悪く言う人はほとんどいません。",
+      "en": "Few people speak ill of him.",
+      "blank": "Few [people] [speak] ill of him."
+    },
+    {
+      "section": 15,
+      "number": 11,
+      "id": "s15-11",
+      "ja": "彼女は彼の話にほとんど興味を示しませんでした。",
+      "en": "She showed little interest in his story.",
+      "blank": "She [showed] [little] [interest] in his story."
+    },
+    {
+      "section": 15,
+      "number": 12,
+      "id": "s15-12",
+      "ja": "あなたにここで会うなんて思いもしませんでした。",
+      "en": "Little did I expect to meet you here.",
+      "blank": "[Little] did I [expect] to meet you here."
+    },
+    {
+      "section": 15,
+      "number": 13,
+      "id": "s15-13",
+      "ja": "私は週末、めったに外出しません。",
+      "en": "I rarely go out on weekends.",
+      "blank": "I [rarely] [go out] on [weekends]."
+    },
+    {
+      "section": 15,
+      "number": 14,
+      "id": "s15-14",
+      "ja": "この解決策は決して完璧ではありません。",
+      "en": "This solution is far from perfect.",
+      "blank": "This [solution] is far from [perfect]."
+    },
+    {
+      "section": 15,
+      "number": 15,
+      "id": "s15-15",
+      "ja": "彼女は決して約束を破るような人ではありません。",
+      "en": "She is the last person to break a promise.",
+      "blank": "She is the last [person] to [break] a [promise]."
+    },
+    {
+      "section": 16,
+      "number": 1,
+      "id": "s16-01",
+      "ja": "この庭には花はまったく咲いていません。",
+      "en": "There are no flowers in this garden.",
+      "blank": "[There are] no [flowers] in this [garden]."
+    },
+    {
+      "section": 16,
+      "number": 2,
+      "id": "s16-02",
+      "ja": "私は鉛筆も消しゴムも忘れました。",
+      "en": "I didn't bring either a pencil or an eraser.",
+      "blank": "I [didn't] [bring] [either] a pencil or an eraser."
+    },
+    {
+      "section": 16,
+      "number": 3,
+      "id": "s16-03",
+      "ja": "その姉妹は2人ともその話を知りません。",
+      "en": "Neither of the sisters knows the story.",
+      "blank": "[Neither] of the [sisters] [knows] the story."
+    },
+    {
+      "section": 16,
+      "number": 4,
+      "id": "s16-04",
+      "ja": "学生たちは誰も講義に出席していませんでした。",
+      "en": "None of the students were present at the lecture.",
+      "blank": "None of the [students] were [present] at the [lecture]."
+    },
+    {
+      "section": 16,
+      "number": 5,
+      "id": "s16-05",
+      "ja": "誰もその質問に答えることができませんでした。",
+      "en": "Nobody was able to answer the question.",
+      "blank": "[Nobody] was able to [answer] the [question]."
+    },
+    {
+      "section": 16,
+      "number": 6,
+      "id": "s16-06",
+      "ja": "誰もが宇宙飛行士になれるわけではありません。",
+      "en": "Not everyone can be an astronaut.",
+      "blank": "Not [everyone] can be an [astronaut]."
+    },
+    {
+      "section": 16,
+      "number": 7,
+      "id": "s16-07",
+      "ja": "教授全員がその会議に出席していたわけではありません。",
+      "en": "Not all the professors attended the conference.",
+      "blank": "Not all the [professors] [attended] the [conference]."
+    },
+    {
+      "section": 16,
+      "number": 8,
+      "id": "s16-08",
+      "ja": "お金持ちが必ずしも幸せとは限りません。",
+      "en": "The rich are not always happy.",
+      "blank": "The rich are not [always] [happy]."
+    },
+    {
+      "section": 16,
+      "number": 9,
+      "id": "s16-09",
+      "ja": "私は彼の両親をどちらも知っているわけではありません。",
+      "en": "I don't know both of his parents.",
+      "blank": "I [don't] know both of his [parents]."
+    },
+    {
+      "section": 16,
+      "number": 10,
+      "id": "s16-10",
+      "ja": "車を運転するときは、いくら注意してもしすぎることはありません。",
+      "en": "You cannot be too careful when you drive.",
+      "blank": "You [cannot] be too [careful] when you [drive]."
+    },
+    {
+      "section": 16,
+      "number": 11,
+      "id": "s16-11",
+      "ja": "失敗は決して時間のむだではありません。",
+      "en": "Failure is by no means a waste of time.",
+      "blank": "[Failure] is by no [means] a [waste] of time."
+    },
+    {
+      "section": 16,
+      "number": 12,
+      "id": "s16-12",
+      "ja": "この問題はまだ解決されていません。",
+      "en": "This problem has yet to be solved.",
+      "blank": "This [problem] has yet to be [solved]."
+    },
+    {
+      "section": 16,
+      "number": 13,
+      "id": "s16-13",
+      "ja": "ボブは時間どおりに来ませんでした。",
+      "en": "Bob failed to come on time.",
+      "blank": "Bob [failed] to [come] on time."
+    },
+    {
+      "section": 16,
+      "number": 14,
+      "id": "s16-14",
+      "ja": "この状況は私たちの手に負えません。",
+      "en": "This situation is beyond our control.",
+      "blank": "This [situation] is [beyond] our [control]."
+    },
+    {
+      "section": 16,
+      "number": 15,
+      "id": "s16-15",
+      "ja": "1994年になってやっと南アフリカでアパルトヘイトが全廃されました。",
+      "en": "It was not until 1994 that apartheid was abolished in South Africa.",
+      "blank": "[It was] not until 1994 that [apartheid] was [abolished] in South Africa."
+    },
+    {
+      "section": 17,
+      "number": 1,
+      "id": "s17-01",
+      "ja": "いつかインドを訪れたいものです。",
+      "en": "I would like to visit India someday.",
+      "blank": "I [would like to] [visit] India [someday]."
+    },
+    {
+      "section": 17,
+      "number": 2,
+      "id": "s17-02",
+      "ja": "英語で話すように努力します。",
+      "en": "I'll try to speak in English.",
+      "blank": "I'll try to [speak] in [English]."
+    },
+    {
+      "section": 17,
+      "number": 3,
+      "id": "s17-03",
+      "ja": "私は彼らを動物園に連れて行くと約束しました。",
+      "en": "I promised to take them to the zoo.",
+      "blank": "I [promised] to [take] them to the zoo."
+    },
+    {
+      "section": 17,
+      "number": 4,
+      "id": "s17-04",
+      "ja": "とうとうお金が不足し始めました。",
+      "en": "Finally, we began to run short of money.",
+      "blank": "[Finally], we [began] to run [short] of money."
+    },
+    {
+      "section": 17,
+      "number": 5,
+      "id": "s17-05",
+      "ja": "明かりを消し忘れないようにしてください。",
+      "en": "Don't forget to turn off the lights.",
+      "blank": "Don't [forget] to [turn off] the [lights]."
+    },
+    {
+      "section": 17,
+      "number": 6,
+      "id": "s17-06",
+      "ja": "次に何をしたらいいか教えてください。",
+      "en": "Tell me what to do next.",
+      "blank": "[Tell] me what to do [next]."
+    },
+    {
+      "section": 17,
+      "number": 7,
+      "id": "s17-07",
+      "ja": "私は辞典を引けるようにならなければなりません。",
+      "en": "I must learn to use a dictionary.",
+      "blank": "I must [learn] to use a [dictionary]."
+    },
+    {
+      "section": 17,
+      "number": 8,
+      "id": "s17-08",
+      "ja": "彼女があなたに腹を立てているのはもっともです。",
+      "en": "It is natural for her to be angry with you.",
+      "blank": "[It is] [natural] for her to be [angry] with you."
+    },
+    {
+      "section": 17,
+      "number": 9,
+      "id": "s17-09",
+      "ja": "早寝早起きは健康にいい。",
+      "en": "It is good for your health to keep regular hours.",
+      "blank": "[It is] good for your health to keep [regular] [hours]."
+    },
+    {
+      "section": 17,
+      "number": 10,
+      "id": "s17-10",
+      "ja": "よいご助言をいただき、ありがとうございます。",
+      "en": "It is nice of you to give me good advice.",
+      "blank": "[It is] nice of you to give me good [advice]."
+    },
+    {
+      "section": 17,
+      "number": 11,
+      "id": "s17-11",
+      "ja": "パソコンを修理してもらうのに90ドルかかりました。",
+      "en": "It cost me ninety dollars to have my PC repaired.",
+      "blank": "It cost me [ninety] [dollars] to have my PC [repaired]."
+    },
+    {
+      "section": 17,
+      "number": 12,
+      "id": "s17-12",
+      "ja": "彼と仲よくやっていくことは困難だと分かりました。",
+      "en": "I found it difficult to get along with him.",
+      "blank": "I [found] it [difficult] to [get along with] him."
+    },
+    {
+      "section": 17,
+      "number": 13,
+      "id": "s17-13",
+      "ja": "彼は医師にすぐ診てもらう必要があると思いました。",
+      "en": "He thought it necessary to see the doctor at once.",
+      "blank": "He [thought] it [necessary] to see the doctor [at once]."
+    },
+    {
+      "section": 17,
+      "number": 14,
+      "id": "s17-14",
+      "ja": "彼女がその仕事を1日で終えるのは不可能だと私は思いました。",
+      "en": "I thought it impossible for her to finish the work in a day.",
+      "blank": "I [thought] it [impossible] for her to [finish] the work in a day."
+    },
+    {
+      "section": 17,
+      "number": 15,
+      "id": "s17-15",
+      "ja": "私は間食をしないことにしています。",
+      "en": "I make it a rule not to eat between meals.",
+      "blank": "I [make] it a rule not to eat between [meals]."
+    },
+    {
+      "section": 18,
+      "number": 1,
+      "id": "s18-01",
+      "ja": "何か冷たい飲み物はいかがですか。",
+      "en": "Would you like something cold to drink?",
+      "blank": "Would you like [something] cold to [drink]?"
+    },
+    {
+      "section": 18,
+      "number": 2,
+      "id": "s18-02",
+      "ja": "彼は扶養家族が多い。",
+      "en": "He has a large family to support.",
+      "blank": "He has a [large] [family] to [support]."
+    },
+    {
+      "section": 18,
+      "number": 3,
+      "id": "s18-03",
+      "ja": "何か書くものを貸してください。＜筆記具＞",
+      "en": "Please lend me something to write with.",
+      "blank": "[Please] lend me [something] to [write] with."
+    },
+    {
+      "section": 18,
+      "number": 4,
+      "id": "s18-04",
+      "ja": "英語を学ぶのに一番いい方法は何ですか。",
+      "en": "What is the best way to learn English?",
+      "blank": "What is the best way to [learn] [English]?"
+    },
+    {
+      "section": 18,
+      "number": 5,
+      "id": "s18-05",
+      "ja": "私はそれとはまったく関係ありません。",
+      "en": "I have nothing to do with it.",
+      "blank": "I have [nothing] to [do] with it."
+    },
+    {
+      "section": 18,
+      "number": 6,
+      "id": "s18-06",
+      "ja": "父は1日おきに花に水をやるように私に言いました。",
+      "en": "My father told me to water the flowers every other day.",
+      "blank": "My [father] told me to [water] the [flowers] every other day."
+    },
+    {
+      "section": 18,
+      "number": 7,
+      "id": "s18-07",
+      "ja": "チョークを2本持ってきてもらいたい。",
+      "en": "I want you to bring me two pieces of chalk.",
+      "blank": "I want you to [bring] me two [pieces] of [chalk]."
+    },
+    {
+      "section": 18,
+      "number": 8,
+      "id": "s18-08",
+      "ja": "私はあなたが一等賞を取ることを期待しています。",
+      "en": "I expect you to win first prize.",
+      "blank": "I [expect] you to win [first] [prize]."
+    },
+    {
+      "section": 18,
+      "number": 9,
+      "id": "s18-09",
+      "ja": "彼らに部屋の掃除をさせましょう。",
+      "en": "I'll get them to clean the room.",
+      "blank": "[I'll] get them to [clean] the room."
+    },
+    {
+      "section": 18,
+      "number": 10,
+      "id": "s18-10",
+      "ja": "秘書にこのEメールを翻訳させましょう。",
+      "en": "I'll have my secretary translate this email.",
+      "blank": "I'll have my [secretary] [translate] this [email]."
+    },
+    {
+      "section": 18,
+      "number": 11,
+      "id": "s18-11",
+      "ja": "何か質問があれば知らせてください。",
+      "en": "Please let me know if you have any questions.",
+      "blank": "[Please] let me know if you have any [questions]."
+    },
+    {
+      "section": 18,
+      "number": 12,
+      "id": "s18-12",
+      "ja": "君はなぜそんなふうに考えるのですか。",
+      "en": "What makes you think so?",
+      "blank": "What [makes] you [think] so?"
+    },
+    {
+      "section": 18,
+      "number": 13,
+      "id": "s18-13",
+      "ja": "少女が助けを求めて叫ぶのが聞こえました。",
+      "en": "I heard a girl shout for help.",
+      "blank": "I [heard] a girl [shout] for help."
+    },
+    {
+      "section": 18,
+      "number": 14,
+      "id": "s18-14",
+      "ja": "私たちはグリーンさんが子どもたちをしかるのをめったに見ません。",
+      "en": "We seldom see Mr. Green scold his children.",
+      "blank": "We [seldom] see Mr. Green [scold] his [children]."
+    },
+    {
+      "section": 18,
+      "number": 15,
+      "id": "s18-15",
+      "ja": "彼女は涙がほおを流れるのを感じました。",
+      "en": "She felt tears run down her cheeks.",
+      "blank": "She felt [tears] run down her [cheeks]."
+    },
+    {
+      "section": 19,
+      "number": 1,
+      "id": "s19-01",
+      "ja": "私たちの監督は気難しい。",
+      "en": "Our manager is hard to please.",
+      "blank": "Our [manager] is hard to [please]."
+    },
+    {
+      "section": 19,
+      "number": 2,
+      "id": "s19-02",
+      "ja": "この川は泳ぐには安全ではありません。",
+      "en": "This river is not safe to swim in.",
+      "blank": "This [river] is not [safe] to swim in."
+    },
+    {
+      "section": 19,
+      "number": 3,
+      "id": "s19-03",
+      "ja": "彼女は自分のことは自分でやれる年頃です。",
+      "en": "She is old enough to take care of herself.",
+      "blank": "She is old [enough] to [take care of] herself."
+    },
+    {
+      "section": 19,
+      "number": 4,
+      "id": "s19-04",
+      "ja": "彼の健康は日増しに回復しつつあるように思えます。",
+      "en": "His health seems to be improving day by day.",
+      "blank": "His [health] [seems] to be [improving] day by day."
+    },
+    {
+      "section": 19,
+      "number": 5,
+      "id": "s19-05",
+      "ja": "彼女はきっと試験に合格するでしょう。",
+      "en": "She is sure to succeed in the examination.",
+      "blank": "She is sure to [succeed] in the [examination]."
+    },
+    {
+      "section": 19,
+      "number": 6,
+      "id": "s19-06",
+      "ja": "この本は難しすぎて私には読めません。",
+      "en": "This book is too difficult for me to read.",
+      "blank": "This [book] is too [difficult] for me to read."
+    },
+    {
+      "section": 19,
+      "number": 7,
+      "id": "s19-07",
+      "ja": "あなたはどうして彼を知るようになったのですか。",
+      "en": "How did you get to know him?",
+      "blank": "How did you [get] to [know] him?"
+    },
+    {
+      "section": 19,
+      "number": 8,
+      "id": "s19-08",
+      "ja": "私の祖父は100歳まで生きました。",
+      "en": "My grandfather lived to be a hundred years old.",
+      "blank": "My [grandfather] [lived] to be a [hundred] years old."
+    },
+    {
+      "section": 19,
+      "number": 9,
+      "id": "s19-09",
+      "ja": "私はいい席を取るために早く出かけました。",
+      "en": "I left early in order to get a good seat.",
+      "blank": "I left [early] [in order to] get a good seat."
+    },
+    {
+      "section": 19,
+      "number": 10,
+      "id": "s19-10",
+      "ja": "彼は入学試験に失敗しないように一生懸命勉強しました。",
+      "en": "He worked hard so as not to fail the entrance exam.",
+      "blank": "He [worked] hard so as not to fail the [entrance] exam."
+    },
+    {
+      "section": 19,
+      "number": 11,
+      "id": "s19-11",
+      "ja": "たいへん長くお待たせしてすみません。",
+      "en": "I am sorry to have kept you waiting so long.",
+      "blank": "I am [sorry] to have kept you [waiting] so long."
+    },
+    {
+      "section": 19,
+      "number": 12,
+      "id": "s19-12",
+      "ja": "彼女はそのニュースを聞いて失望しました。",
+      "en": "She was disappointed to hear the news.",
+      "blank": "She was [disappointed] to [hear] the news."
+    },
+    {
+      "section": 19,
+      "number": 13,
+      "id": "s19-13",
+      "ja": "彼は二度と家族に会うことはありませんでした。",
+      "en": "He was never to see his family again.",
+      "blank": "He was [never] to see his [family] [again]."
+    },
+    {
+      "section": 19,
+      "number": 14,
+      "id": "s19-14",
+      "ja": "本当のことを言えば、私たちは彼を信用できません。",
+      "en": "To tell the truth, we can't trust him.",
+      "blank": "To [tell the truth], we [can't] [trust] him."
+    },
+    {
+      "section": 19,
+      "number": 15,
+      "id": "s19-15",
+      "ja": "彼女は英語はもちろんのこと、フランス語も話せます。",
+      "en": "She can speak French, not to mention English.",
+      "blank": "She can [speak] French, not to [mention] [English]."
+    },
+    {
+      "section": 20,
+      "number": 1,
+      "id": "s20-01",
+      "ja": "早起きはよい習慣です。",
+      "en": "Getting up early is a good habit.",
+      "blank": "[Getting] up [early] is a good [habit]."
+    },
+    {
+      "section": 20,
+      "number": 2,
+      "id": "s20-02",
+      "ja": "私たちはトランプをして楽しみました。",
+      "en": "We enjoyed playing cards.",
+      "blank": "We [enjoyed] [playing] [cards]."
+    },
+    {
+      "section": 20,
+      "number": 3,
+      "id": "s20-03",
+      "ja": "彼は絵をかくのが上手です。",
+      "en": "He is good at drawing pictures.",
+      "blank": "He is good at [drawing] [pictures]."
+    },
+    {
+      "section": 20,
+      "number": 4,
+      "id": "s20-04",
+      "ja": "彼女は子ども扱いされるのが好きではありません。",
+      "en": "She doesn't like being treated like a child.",
+      "blank": "She [doesn't] like being [treated] like a [child]."
+    },
+    {
+      "section": 20,
+      "number": 5,
+      "id": "s20-05",
+      "ja": "映画に行きましょうか。",
+      "en": "How about going to the movies?",
+      "blank": "How about [going] to the [movies]?"
+    },
+    {
+      "section": 20,
+      "number": 6,
+      "id": "s20-06",
+      "ja": "秋は読書にいい季節です。",
+      "en": "Fall is a good season for reading.",
+      "blank": "Fall is a good [season] for [reading]."
+    },
+    {
+      "section": 20,
+      "number": 7,
+      "id": "s20-07",
+      "ja": "彼にどこかで会った覚えがあります。",
+      "en": "I remember seeing him somewhere.",
+      "blank": "I [remember] [seeing] him [somewhere]."
+    },
+    {
+      "section": 20,
+      "number": 8,
+      "id": "s20-08",
+      "ja": "間違うことを恐れてはいけません。",
+      "en": "Don't be afraid of making mistakes.",
+      "blank": "Don't [be afraid of] [making] [mistakes]."
+    },
+    {
+      "section": 20,
+      "number": 9,
+      "id": "s20-09",
+      "ja": "「どうか窓を開けていただけませんか」「はい、分かりました」",
+      "en": "\"Would you mind opening the window?\" \"No, not at all.\"",
+      "blank": "\"Would you mind [opening] the [window]?\" \"No, not at all.\""
+    },
+    {
+      "section": 20,
+      "number": 10,
+      "id": "s20-10",
+      "ja": "エアコンをつけてもよろしいですか。",
+      "en": "Do you mind me turning on the air conditioner?",
+      "blank": "Do you mind me [turning] on the air [conditioner]?"
+    },
+    {
+      "section": 20,
+      "number": 11,
+      "id": "s20-11",
+      "ja": "彼女は息子が勤勉であることを誇りにしています。",
+      "en": "She is proud of her son being a hard worker.",
+      "blank": "She is [proud] of her son being a hard [worker]."
+    },
+    {
+      "section": 20,
+      "number": 12,
+      "id": "s20-12",
+      "ja": "あなたに会うのを楽しみにしています。",
+      "en": "I am looking forward to seeing you.",
+      "blank": "I am [looking] [forward] to [seeing] you."
+    },
+    {
+      "section": 20,
+      "number": 13,
+      "id": "s20-13",
+      "ja": "桜島は少なくとも1度は訪れる価値があります。",
+      "en": "Sakurajima is worth visiting at least once.",
+      "blank": "[Sakurajima] is [worth] [visiting] at least once."
+    },
+    {
+      "section": 20,
+      "number": 14,
+      "id": "s20-14",
+      "ja": "彼はどうかしていると思わないわけにはいきません。",
+      "en": "I cannot help thinking he is crazy.",
+      "blank": "I [cannot] help [thinking] he is [crazy]."
+    },
+    {
+      "section": 20,
+      "number": 15,
+      "id": "s20-15",
+      "ja": "そのニュースを聞いて彼らは歓声をあげました。",
+      "en": "On hearing the news, they shouted for joy.",
+      "blank": "On [hearing] the news, they [shouted] for joy."
+    },
+    {
+      "section": 21,
+      "number": 1,
+      "id": "s21-01",
+      "ja": "赤ちゃんは泣きやみました。",
+      "en": "The baby stopped crying.",
+      "blank": "The baby [stopped] [crying]."
+    },
+    {
+      "section": 21,
+      "number": 2,
+      "id": "s21-02",
+      "ja": "私は昨夜その小説を読み終えました。",
+      "en": "I finished reading that novel last night.",
+      "blank": "I [finished] [reading] that [novel] last night."
+    },
+    {
+      "section": 21,
+      "number": 3,
+      "id": "s21-03",
+      "ja": "彼女は音楽を聞くのが好きです。",
+      "en": "She is fond of listening to music.",
+      "blank": "She is fond of [listening] to [music]."
+    },
+    {
+      "section": 21,
+      "number": 4,
+      "id": "s21-04",
+      "ja": "彼は朝食をとらないで学校へ行きました。",
+      "en": "He went to school without having breakfast.",
+      "blank": "He went to school [without] [having] [breakfast]."
+    },
+    {
+      "section": 21,
+      "number": 5,
+      "id": "s21-05",
+      "ja": "わざわざお出迎えくださってありがとうございます。",
+      "en": "Thank you for coming all the way to meet me.",
+      "blank": "[Thank] you for [coming] all the way to meet me."
+    },
+    {
+      "section": 21,
+      "number": 6,
+      "id": "s21-06",
+      "ja": "彼女の父親は彼女が留学することに反対しました。",
+      "en": "Her father objected to her studying abroad.",
+      "blank": "Her [father] [objected] to her [studying] abroad."
+    },
+    {
+      "section": 21,
+      "number": 7,
+      "id": "s21-07",
+      "ja": "夜更かしは体によくありません。",
+      "en": "Staying up late is not good for your health.",
+      "blank": "[Staying] up late is not good for your [health]."
+    },
+    {
+      "section": 21,
+      "number": 8,
+      "id": "s21-08",
+      "ja": "彼の家を探し当てるのに苦労しました。",
+      "en": "I had a hard time finding his house.",
+      "blank": "I had a hard time [finding] his [house]."
+    },
+    {
+      "section": 21,
+      "number": 9,
+      "id": "s21-09",
+      "ja": "このカメラは修理する必要があります。",
+      "en": "This camera needs repairing.",
+      "blank": "This [camera] [needs] [repairing]."
+    },
+    {
+      "section": 21,
+      "number": 10,
+      "id": "s21-10",
+      "ja": "私がその申し出を受けるべきだと彼女は言い張りました。",
+      "en": "She insisted on me accepting the offer.",
+      "blank": "She [insisted] on me [accepting] the [offer]."
+    },
+    {
+      "section": 21,
+      "number": 11,
+      "id": "s21-11",
+      "ja": "母は新聞を読まずに出かけることはありません。",
+      "en": "My mother never goes out without reading a newspaper.",
+      "blank": "My mother never goes out [without] [reading] a [newspaper]."
+    },
+    {
+      "section": 21,
+      "number": 12,
+      "id": "s21-12",
+      "ja": "私は今、食べる気がしません。",
+      "en": "I don't feel like eating now.",
+      "blank": "I [don't] [feel like] [eating] now."
+    },
+    {
+      "section": 21,
+      "number": 13,
+      "id": "s21-13",
+      "ja": "彼は病気のために一生懸命働くことができませんでした。",
+      "en": "Illness prevented him from working hard.",
+      "blank": "[Illness] [prevented] him from [working] hard."
+    },
+    {
+      "section": 21,
+      "number": 14,
+      "id": "s21-14",
+      "ja": "私は人前で話すことに慣れていません。",
+      "en": "I am not used to speaking in public.",
+      "blank": "I am not [used to] [speaking] in [public]."
+    },
+    {
+      "section": 21,
+      "number": 15,
+      "id": "s21-15",
+      "ja": "人の好みは説明のしようがない［たで食う虫も好き好き］。＜ことわざ＞",
+      "en": "There is no accounting for taste.",
+      "blank": "[There is] no [accounting] for [taste]."
+    },
+    {
+      "section": 22,
+      "number": 1,
+      "id": "s22-01",
+      "ja": "あの眠っている犬はとてもかわいい。",
+      "en": "That sleeping dog is very cute.",
+      "blank": "That [sleeping] dog is [very] cute."
+    },
+    {
+      "section": 22,
+      "number": 2,
+      "id": "s22-02",
+      "ja": "ゆで卵はお好きですか。",
+      "en": "Do you like boiled eggs?",
+      "blank": "Do you [like] [boiled] eggs?"
+    },
+    {
+      "section": 22,
+      "number": 3,
+      "id": "s22-03",
+      "ja": "あの壊れた人形はリンダのものです。",
+      "en": "That broken doll belongs to Linda.",
+      "blank": "That [broken] doll [belongs] to [Linda]."
+    },
+    {
+      "section": 22,
+      "number": 4,
+      "id": "s22-04",
+      "ja": "窓の近くに座っている若い男性は私のいとこです。",
+      "en": "The young man sitting near the window is my cousin.",
+      "blank": "The young man [sitting] near the [window] is my [cousin]."
+    },
+    {
+      "section": 22,
+      "number": 5,
+      "id": "s22-05",
+      "ja": "私たちの先生と話をしている人は誰ですか。",
+      "en": "Who is the man speaking to our teacher?",
+      "blank": "Who is the man [speaking] to our [teacher]?"
+    },
+    {
+      "section": 22,
+      "number": 6,
+      "id": "s22-06",
+      "ja": "その小説家の書いた本は学生たちに人気があります。",
+      "en": "The books written by the novelist are popular among students.",
+      "blank": "The books [written] by the [novelist] are popular among [students]."
+    },
+    {
+      "section": 22,
+      "number": 7,
+      "id": "s22-07",
+      "ja": "数人の子どもたちが野原で花を摘んでいます。",
+      "en": "There are some children picking flowers in the field.",
+      "blank": "[There are] some children [picking] [flowers] in the field."
+    },
+    {
+      "section": 22,
+      "number": 8,
+      "id": "s22-08",
+      "ja": "教会の鐘が鳴っているのが聞こえました。",
+      "en": "I heard the church bells ringing.",
+      "blank": "I heard the [church] [bells] [ringing]."
+    },
+    {
+      "section": 22,
+      "number": 9,
+      "id": "s22-09",
+      "ja": "彼女は後ろから自分の名前が呼ばれるのを聞きました。",
+      "en": "She heard her name called from behind.",
+      "blank": "She [heard] her name [called] from [behind]."
+    },
+    {
+      "section": 22,
+      "number": 10,
+      "id": "s22-10",
+      "ja": "彼はドイツ製の車を持っています。",
+      "en": "He has a German-made car.",
+      "blank": "He has a [German-made] [car]."
+    },
+    {
+      "section": 22,
+      "number": 11,
+      "id": "s22-11",
+      "ja": "私たちは一晩中火を燃やし続けました。",
+      "en": "We kept the fire burning all night.",
+      "blank": "We kept the fire [burning] all [night]."
+    },
+    {
+      "section": 22,
+      "number": 12,
+      "id": "s22-12",
+      "ja": "私たちはこの問題をすぐに解決してほしい。",
+      "en": "We want this problem solved right away.",
+      "blank": "We want this [problem] [solved] [right] away."
+    },
+    {
+      "section": 22,
+      "number": 13,
+      "id": "s22-13",
+      "ja": "水を流しっぱなしにしておいてはいけません。",
+      "en": "Don't leave the water running.",
+      "blank": "[Don't] [leave] the water [running]."
+    },
+    {
+      "section": 22,
+      "number": 14,
+      "id": "s22-14",
+      "ja": "時間があまり残っていません。",
+      "en": "We don't have much time left.",
+      "blank": "We [don't] have [much] time left."
+    },
+    {
+      "section": 22,
+      "number": 15,
+      "id": "s22-15",
+      "ja": "君は自分の思っていることを英語で伝えることができますか。",
+      "en": "Can you make yourself understood in English?",
+      "blank": "Can you make [yourself] [understood] in [English]?"
+    },
+    {
+      "section": 23,
+      "number": 1,
+      "id": "s23-01",
+      "ja": "彼女は立ってバスを待っていました。",
+      "en": "She stood waiting for the bus.",
+      "blank": "She [stood] [waiting] for the bus."
+    },
+    {
+      "section": 23,
+      "number": 2,
+      "id": "s23-02",
+      "ja": "その犬は走って来ました。",
+      "en": "The dog came running.",
+      "blank": "The dog [came] [running]."
+    },
+    {
+      "section": 23,
+      "number": 3,
+      "id": "s23-03",
+      "ja": "その子どもは長いこと泣き続けました。",
+      "en": "The child kept crying for a long time.",
+      "blank": "The [child] kept [crying] for a long time."
+    },
+    {
+      "section": 23,
+      "number": 4,
+      "id": "s23-04",
+      "ja": "おじいさんは孫たちに囲まれて座っていました。",
+      "en": "The old man sat surrounded by his grandchildren.",
+      "blank": "The old man sat [surrounded] by his [grandchildren]."
+    },
+    {
+      "section": 23,
+      "number": 5,
+      "id": "s23-05",
+      "ja": "彼の名前は世界中に知れわたりました。",
+      "en": "His name became known all over the world.",
+      "blank": "His name [became] [known] all over the [world]."
+    },
+    {
+      "section": 23,
+      "number": 6,
+      "id": "s23-06",
+      "ja": "警官を見て、泥棒は逃げました。",
+      "en": "Seeing a police officer, the thief ran away.",
+      "blank": "[Seeing] a [police] [officer], the thief ran away."
+    },
+    {
+      "section": 23,
+      "number": 7,
+      "id": "s23-07",
+      "ja": "気分が悪かったので、1日中家にいました。",
+      "en": "Being sick, I stayed home all day.",
+      "blank": "Being [sick], I [stayed] home all day."
+    },
+    {
+      "section": 23,
+      "number": 8,
+      "id": "s23-08",
+      "ja": "通りを歩いていたら、旧友に会いました。",
+      "en": "Walking along the street, I met an old friend of mine.",
+      "blank": "[Walking] along the [street], I met an old [friend] of mine."
+    },
+    {
+      "section": 23,
+      "number": 9,
+      "id": "s23-09",
+      "ja": "彼女は手を振りながら、さよならと言いました。",
+      "en": "She said goodbye, waving her hand.",
+      "blank": "She said [goodbye], [waving] her hand."
+    },
+    {
+      "section": 23,
+      "number": 10,
+      "id": "s23-10",
+      "ja": "遠くから見ると、その岩は人間の顔のように見えます。",
+      "en": "Seen from a distance, the rock looks like a human face.",
+      "blank": "Seen from a [distance], the rock [looks] like a [human] face."
+    },
+    {
+      "section": 23,
+      "number": 11,
+      "id": "s23-11",
+      "ja": "何と言っていいか分からなかったので、私は黙っていました。",
+      "en": "Not knowing what to say, I remained silent.",
+      "blank": "Not [knowing] what to say, I [remained] [silent]."
+    },
+    {
+      "section": 23,
+      "number": 12,
+      "id": "s23-12",
+      "ja": "手紙を書き終えると、それを投函するために彼は急いで出て行きました。",
+      "en": "Having written the letter, he hurried out to mail it.",
+      "blank": "[Having] [written] the letter, he [hurried] out to mail it."
+    },
+    {
+      "section": 23,
+      "number": 13,
+      "id": "s23-13",
+      "ja": "サッカーと言えば、どのチームがワールドカップに勝つと思いますか。",
+      "en": "Speaking of soccer, which team do you think will win the World Cup?",
+      "blank": "[Speaking] of [soccer], which team do you [think] will win the World Cup?"
+    },
+    {
+      "section": 23,
+      "number": 14,
+      "id": "s23-14",
+      "ja": "天気がよければ、あさって試合です。",
+      "en": "We'll have a match the day after tomorrow, weather permitting.",
+      "blank": "We'll have a match the day after [tomorrow], [weather] [permitting]."
+    },
+    {
+      "section": 23,
+      "number": 15,
+      "id": "s23-15",
+      "ja": "一般的に言って、女性のほうが男性より長生きします。",
+      "en": "Generally speaking, women live longer than men.",
+      "blank": "[Generally] [speaking], women live [longer] than men."
+    },
+    {
+      "section": 24,
+      "number": 1,
+      "id": "s24-01",
+      "ja": "私たち全員に足りるだけの食べ物はありませんでした。",
+      "en": "There wasn't enough food for all of us.",
+      "blank": "There [wasn't] [enough] food for all of us."
+    },
+    {
+      "section": 24,
+      "number": 2,
+      "id": "s24-02",
+      "ja": "メンバー全員が現在の問題を把握しています。",
+      "en": "Every member understands the present problem.",
+      "blank": "Every member [understands] the [present] [problem]."
+    },
+    {
+      "section": 24,
+      "number": 3,
+      "id": "s24-03",
+      "ja": "男の子は目を覚ましていますが、父親はぐっすり眠っています。",
+      "en": "The little boy is awake, and his father is fast asleep.",
+      "blank": "The [little] boy is awake, and his [father] is fast [asleep]."
+    },
+    {
+      "section": 24,
+      "number": 4,
+      "id": "s24-04",
+      "ja": "それは接戦で、多くのサポーターは興奮していました。",
+      "en": "It was a close game and many supporters were excited about it.",
+      "blank": "[It was] a close game and many [supporters] were [excited] about it."
+    },
+    {
+      "section": 24,
+      "number": 5,
+      "id": "s24-05",
+      "ja": "彼女はおととい無事に家に帰ってきました。",
+      "en": "She returned home safe and sound the day before yesterday.",
+      "blank": "She [returned] home safe and [sound] the day before [yesterday]."
+    },
+    {
+      "section": 24,
+      "number": 6,
+      "id": "s24-06",
+      "ja": "タイヤがパンクしたために彼女はもう少しで学校に遅刻するところでした。",
+      "en": "She was almost late for school because of a flat tire.",
+      "blank": "She was [almost] late for [school] [because of] a flat tire."
+    },
+    {
+      "section": 24,
+      "number": 7,
+      "id": "s24-07",
+      "ja": "英語の試験はかなりよくできたと思います。",
+      "en": "I think I did pretty well on my English test.",
+      "blank": "I [think] I did [pretty] well on my [English] test."
+    },
+    {
+      "section": 24,
+      "number": 8,
+      "id": "s24-08",
+      "ja": "彼女はとても心配だったので、ほとんどじっと座っていられませんでした。",
+      "en": "She was so worried that she could hardly sit still.",
+      "blank": "She was so [worried] that she could [hardly] sit [still]."
+    },
+    {
+      "section": 24,
+      "number": 9,
+      "id": "s24-09",
+      "ja": "この靴の値段は高い。",
+      "en": "The price of these shoes is high.",
+      "blank": "The [price] of these [shoes] is high."
+    },
+    {
+      "section": 24,
+      "number": 10,
+      "id": "s24-10",
+      "ja": "私の伯母は最近顔色がすぐれません。",
+      "en": "My aunt has not been looking well lately.",
+      "blank": "My aunt has not been [looking] well [lately]."
+    },
+    {
+      "section": 24,
+      "number": 11,
+      "id": "s24-11",
+      "ja": "これらの前方の席は高齢者と体の不自由な人のためのものです。",
+      "en": "These front seats are for the old and the disabled.",
+      "blank": "These [front] [seats] are for the old and the [disabled]."
+    },
+    {
+      "section": 24,
+      "number": 12,
+      "id": "s24-12",
+      "ja": "その野球チームが優勝しそうです。",
+      "en": "The baseball team is likely to win the championship.",
+      "blank": "The [baseball] team is [likely] to win the [championship]."
+    },
+    {
+      "section": 24,
+      "number": 13,
+      "id": "s24-13",
+      "ja": "あなたの都合のいいときにお立ち寄りください。",
+      "en": "Please drop in on me when it is convenient for you.",
+      "blank": "[Please] drop in on me when [it is] [convenient] for you."
+    },
+    {
+      "section": 24,
+      "number": 14,
+      "id": "s24-14",
+      "ja": "ハリソン博士は古代文明に関する本をかなりたくさん持っています。",
+      "en": "Dr. Harrison has quite a few books on ancient civilizations.",
+      "blank": "Dr. Harrison has quite [a few] books on [ancient] [civilizations]."
+    },
+    {
+      "section": 24,
+      "number": 15,
+      "id": "s24-15",
+      "ja": "不運にも私たちはひどい交通渋滞のために遅れました。",
+      "en": "Unfortunately, we were delayed due to the bad traffic jam.",
+      "blank": "[Unfortunately], we were [delayed] [due to] the bad traffic jam."
+    },
+    {
+      "section": 25,
+      "number": 1,
+      "id": "s25-01",
+      "ja": "この本はあの本とちょうど同じくらい易しい。",
+      "en": "This book is just as easy as that one.",
+      "blank": "This [book] is [just] as easy as that one."
+    },
+    {
+      "section": 25,
+      "number": 2,
+      "id": "s25-02",
+      "ja": "彼はあなたほど金持ちではありません。",
+      "en": "He is not as rich as you are.",
+      "blank": "He is [not] as [rich] as you are."
+    },
+    {
+      "section": 25,
+      "number": 3,
+      "id": "s25-03",
+      "ja": "彼女は私と同じくらい多くの本を持っています。",
+      "en": "She has as many books as I do.",
+      "blank": "She has as [many] [books] as I do."
+    },
+    {
+      "section": 25,
+      "number": 4,
+      "id": "s25-04",
+      "ja": "あなたはできるだけ速く走らなければなりません。",
+      "en": "You must run as fast as you can.",
+      "blank": "You must [run] as [fast] as you can."
+    },
+    {
+      "section": 25,
+      "number": 5,
+      "id": "s25-05",
+      "ja": "あなたのアパートの部屋は私のよりずっと広い。",
+      "en": "Your apartment is much larger than mine.",
+      "blank": "Your [apartment] is much [larger] than mine."
+    },
+    {
+      "section": 25,
+      "number": 6,
+      "id": "s25-06",
+      "ja": "マイケルは私より3つ年下です。",
+      "en": "Michael is three years younger than I am.",
+      "blank": "[Michael] is three [years] [younger] than I am."
+    },
+    {
+      "section": 25,
+      "number": 7,
+      "id": "s25-07",
+      "ja": "彼は日増しに元気になっています。",
+      "en": "He is getting better day by day.",
+      "blank": "He is [getting] [better] day by day."
+    },
+    {
+      "section": 25,
+      "number": 8,
+      "id": "s25-08",
+      "ja": "トムはクラスのどの少年よりも背が高い。",
+      "en": "Tom is taller than any other boy in his class.",
+      "blank": "Tom is [taller] than any [other] boy in his [class]."
+    },
+    {
+      "section": 25,
+      "number": 9,
+      "id": "s25-09",
+      "ja": "5人の少年のうちでは太郎が一番背が高い。",
+      "en": "Taro is the tallest of the five boys.",
+      "blank": "[Taro] is the [tallest] of the five boys."
+    },
+    {
+      "section": 25,
+      "number": 10,
+      "id": "s25-10",
+      "ja": "時間ほど貴重なものはありません。",
+      "en": "Nothing is more precious than time.",
+      "blank": "[Nothing] is more [precious] than time."
+    },
+    {
+      "section": 25,
+      "number": 11,
+      "id": "s25-11",
+      "ja": "2人のうちではロバートのほうが背が高い。",
+      "en": "Robert is the taller of the two.",
+      "blank": "[Robert] is the [taller] of the two."
+    },
+    {
+      "section": 25,
+      "number": 12,
+      "id": "s25-12",
+      "ja": "あなたのクラスでは誰が一番速く走れますか。",
+      "en": "Who can run fastest in your class?",
+      "blank": "Who can run [fastest] in your [class]?"
+    },
+    {
+      "section": 25,
+      "number": 13,
+      "id": "s25-13",
+      "ja": "横浜は日本で2番目に大きい都市です。",
+      "en": "Yokohama is the second largest city in Japan.",
+      "blank": "[Yokohama] is the [second] [largest] city in Japan."
+    },
+    {
+      "section": 25,
+      "number": 14,
+      "id": "s25-14",
+      "ja": "電車は私たちが思っていたよりも混んでいました。",
+      "en": "The train was more crowded than we had expected.",
+      "blank": "The [train] was more [crowded] than we had [expected]."
+    },
+    {
+      "section": 25,
+      "number": 15,
+      "id": "s25-15",
+      "ja": "高く登れば登るほど、空気は希薄になります。",
+      "en": "The higher you go up, the thinner the air becomes.",
+      "blank": "The [higher] you go up, the [thinner] the air [becomes]."
+    },
+    {
+      "section": 26,
+      "number": 1,
+      "id": "s26-01",
+      "ja": "私の姉は昨年、本を60冊も読みました。",
+      "en": "My sister read as many as sixty books last year.",
+      "blank": "My [sister] read as many as [sixty] [books] last year."
+    },
+    {
+      "section": 26,
+      "number": 2,
+      "id": "s26-02",
+      "ja": "トルコの面積は日本の約2倍です。",
+      "en": "Turkey is about twice as large as Japan.",
+      "blank": "[Turkey] is about [twice] as [large] as Japan."
+    },
+    {
+      "section": 26,
+      "number": 3,
+      "id": "s26-03",
+      "ja": "スーツケースの重量が23kgを超えています。",
+      "en": "Your suitcase weighs more than 23 kilograms.",
+      "blank": "Your [suitcase] [weighs] more than 23 [kilograms]."
+    },
+    {
+      "section": 26,
+      "number": 4,
+      "id": "s26-04",
+      "ja": "東京は日本でずば抜けて人口が多い。",
+      "en": "Tokyo has by far the largest population in Japan.",
+      "blank": "[Tokyo] has by far the [largest] [population] in Japan."
+    },
+    {
+      "section": 26,
+      "number": 5,
+      "id": "s26-05",
+      "ja": "これは町で最も高価なレストランの1つです。",
+      "en": "This is one of the most expensive restaurants in town.",
+      "blank": "This is [one of the] most [expensive] [restaurants] in town."
+    },
+    {
+      "section": 26,
+      "number": 6,
+      "id": "s26-06",
+      "ja": "姉は私ほど服にお金を使いません。",
+      "en": "My sister spends less money on clothes than I do.",
+      "blank": "My [sister] [spends] less money on [clothes] than I do."
+    },
+    {
+      "section": 26,
+      "number": 7,
+      "id": "s26-07",
+      "ja": "私はあなたの言ったことに怒っているというよりむしろがっかりしています。",
+      "en": "I am not so much angry as disappointed in what you said.",
+      "blank": "I am not so much [angry] as [disappointed] in what you said."
+    },
+    {
+      "section": 26,
+      "number": 8,
+      "id": "s26-08",
+      "ja": "彼女は授業中に居眠りをするような愚かなことはしません。",
+      "en": "She knows better than to fall asleep during class.",
+      "blank": "She [knows] [better] than to fall asleep during [class]."
+    },
+    {
+      "section": 26,
+      "number": 9,
+      "id": "s26-09",
+      "ja": "私は都会暮らしより田舎暮らしが好きです。",
+      "en": "I prefer country life to city life.",
+      "blank": "I [prefer] [country] life to city life."
+    },
+    {
+      "section": 26,
+      "number": 10,
+      "id": "s26-10",
+      "ja": "彼の計画は私のものよりもいくつかの点で優れています。",
+      "en": "His plan is superior to mine in several ways.",
+      "blank": "His plan is [superior] to mine in [several] ways."
+    },
+    {
+      "section": 26,
+      "number": 11,
+      "id": "s26-11",
+      "ja": "この湖はここが一番深い。",
+      "en": "This lake is deepest here.",
+      "blank": "This [lake] is [deepest] here."
+    },
+    {
+      "section": 26,
+      "number": 12,
+      "id": "s26-12",
+      "ja": "賢者も時として過ちを犯す。",
+      "en": "The wisest man sometimes makes mistakes.",
+      "blank": "The wisest man [sometimes] [makes] [mistakes]."
+    },
+    {
+      "section": 26,
+      "number": 13,
+      "id": "s26-13",
+      "ja": "それだけで済んでよかった［もっと悪いこともありえた］。",
+      "en": "It could have been worse.",
+      "blank": "It [could] have been [worse]."
+    },
+    {
+      "section": 26,
+      "number": 14,
+      "id": "s26-14",
+      "ja": "彼の意見はおおよそ正しい。",
+      "en": "His opinion is more or less right.",
+      "blank": "His [opinion] is [more or less] [right]."
+    },
+    {
+      "section": 26,
+      "number": 15,
+      "id": "s26-15",
+      "ja": "今あるものを最大限に活用しなさい。",
+      "en": "You must make the most of what you have.",
+      "blank": "You must [make] the [most] of what you have."
+    },
+    {
+      "section": 27,
+      "number": 1,
+      "id": "s27-01",
+      "ja": "こちらがホームランを打った少年です。",
+      "en": "This is the boy who hit a home run.",
+      "blank": "This is the [boy] who hit a [home] run."
+    },
+    {
+      "section": 27,
+      "number": 2,
+      "id": "s27-02",
+      "ja": "あなたが貸してくれた雑誌はおもしろかったです。",
+      "en": "The magazine which you lent me was interesting.",
+      "blank": "The [magazine] which you lent me was [interesting]."
+    },
+    {
+      "section": 27,
+      "number": 3,
+      "id": "s27-03",
+      "ja": "私が持ち合わせているお金はこれだけです。",
+      "en": "This is all the money that I have with me.",
+      "blank": "This is [all] the [money] that I have with me."
+    },
+    {
+      "section": 27,
+      "number": 4,
+      "id": "s27-04",
+      "ja": "これは私が今までに読んだ最もおもしろい本です。",
+      "en": "This is the most interesting book that I have ever read.",
+      "blank": "This is the [most] [interesting] book that I have ever read."
+    },
+    {
+      "section": 27,
+      "number": 5,
+      "id": "s27-05",
+      "ja": "彼は日本が生んだ最も偉大な科学者の1人です。",
+      "en": "He is one of the greatest scientists that Japan has ever produced.",
+      "blank": "He is [one of the] greatest [scientists] that Japan has ever [produced]."
+    },
+    {
+      "section": 27,
+      "number": 6,
+      "id": "s27-06",
+      "ja": "私には、母親が有名な小説家である友達がいます。",
+      "en": "I have a friend whose mother is a famous novelist.",
+      "blank": "I have a [friend] whose mother is a [famous] [novelist]."
+    },
+    {
+      "section": 27,
+      "number": 7,
+      "id": "s27-07",
+      "ja": "エジプトは歴史が数千年もある国です。",
+      "en": "Egypt is a country whose history goes back thousands of years.",
+      "blank": "Egypt is a [country] whose [history] goes back [thousands] of years."
+    },
+    {
+      "section": 27,
+      "number": 8,
+      "id": "s27-08",
+      "ja": "彼女は私が先週の金曜日の夜に一緒にダンスをした人です。",
+      "en": "She is the girl with whom I danced last Friday night.",
+      "blank": "She is the girl with whom I [danced] last [Friday] [night]."
+    },
+    {
+      "section": 27,
+      "number": 9,
+      "id": "s27-09",
+      "ja": "これは私が先日お話しした辞典です。",
+      "en": "This is the dictionary I talked about the other day.",
+      "blank": "This is the [dictionary] I [talked] about the [other] day."
+    },
+    {
+      "section": 27,
+      "number": 10,
+      "id": "s27-10",
+      "ja": "昨日外国人に会いましたが、その人は空港へ行く道を私に尋ねました。",
+      "en": "Yesterday I met a foreigner who asked me the way to the airport.",
+      "blank": "[Yesterday] I met a [foreigner] who asked me the way to the [airport]."
+    },
+    {
+      "section": 27,
+      "number": 11,
+      "id": "s27-11",
+      "ja": "田中さんに会いましたが、彼に会うのは数年ぶりでした。",
+      "en": "I met Mr. Tanaka, whom I had not seen for several years.",
+      "blank": "I met Mr. [Tanaka], whom I had not seen for [several] [years]."
+    },
+    {
+      "section": 27,
+      "number": 12,
+      "id": "s27-12",
+      "ja": "彼は彼のことを好きじゃないと言ったけれど、それは嘘でした。",
+      "en": "He said he didn't love me, which was a lie.",
+      "blank": "He [said] he [didn't] love me, which was a lie."
+    },
+    {
+      "section": 27,
+      "number": 13,
+      "id": "s27-13",
+      "ja": "これはあなたが持っているのと同じ種類の時計です。",
+      "en": "This is the same kind of watch as you have.",
+      "blank": "This is the [same] kind of [watch] as you have."
+    },
+    {
+      "section": 27,
+      "number": 14,
+      "id": "s27-14",
+      "ja": "必要以上のお金を使ってはいけません。",
+      "en": "Don't spend more money than is necessary.",
+      "blank": "[Don't] [spend] more money than is [necessary]."
+    },
+    {
+      "section": 27,
+      "number": 15,
+      "id": "s27-15",
+      "ja": "ノアにはよくあることですが、家にいませんでした。",
+      "en": "As is often the case with him, Noah was not at home.",
+      "blank": "As is [often] the [case] with him, Noah was not at home."
+    },
+    {
+      "section": 28,
+      "number": 1,
+      "id": "s28-01",
+      "ja": "いつでも正しいことをすべきです。",
+      "en": "You should always do what is right.",
+      "blank": "You should [always] do what is [right]."
+    },
+    {
+      "section": 28,
+      "number": 2,
+      "id": "s28-02",
+      "ja": "彼女が言っていることはまったく本当です。",
+      "en": "What she says is quite true.",
+      "blank": "What she [says] is [quite] true."
+    },
+    {
+      "section": 28,
+      "number": 3,
+      "id": "s28-03",
+      "ja": "私はあなたと一緒にこの映画を見た日のことを忘れません。",
+      "en": "I'll never forget the day when I saw this movie with you.",
+      "blank": "I'll [never] [forget] the day when I saw this [movie] with you."
+    },
+    {
+      "section": 28,
+      "number": 4,
+      "id": "s28-04",
+      "ja": "そういうわけで私は田舎に住みたいのです。",
+      "en": "That is why I want to live in the country.",
+      "blank": "That is why I [want] to live in the [country]."
+    },
+    {
+      "section": 28,
+      "number": 5,
+      "id": "s28-05",
+      "ja": "そんなふうにして彼はその溺れかかった子どもを救ったのです。",
+      "en": "That is how he saved the drowning child.",
+      "blank": "That is how he [saved] the [drowning] [child]."
+    },
+    {
+      "section": 28,
+      "number": 6,
+      "id": "s28-06",
+      "ja": "ここがその事故が先週の今日あった場所です。",
+      "en": "This is where the accident happened a week ago today.",
+      "blank": "This is where the [accident] [happened] a week ago [today]."
+    },
+    {
+      "section": 28,
+      "number": 7,
+      "id": "s28-07",
+      "ja": "彼の話し方が好きではありません。",
+      "en": "I don't like the way he talks.",
+      "blank": "I [don't] like the way he [talks]."
+    },
+    {
+      "section": 28,
+      "number": 8,
+      "id": "s28-08",
+      "ja": "彼女はそれを後悔するときが来るでしょう。",
+      "en": "The time will come when she'll be sorry for it.",
+      "blank": "The time will come when [she'll] be [sorry] for it."
+    },
+    {
+      "section": 28,
+      "number": 9,
+      "id": "s28-09",
+      "ja": "彼は以前の彼ではありません。",
+      "en": "He is not what he used to be.",
+      "blank": "He is [not] what he [used to] be."
+    },
+    {
+      "section": 28,
+      "number": 10,
+      "id": "s28-10",
+      "ja": "行きたい人は誰でも連れて行きます。",
+      "en": "I will take whoever wants to go.",
+      "blank": "I will take [whoever] [wants] to go."
+    },
+    {
+      "section": 28,
+      "number": 11,
+      "id": "s28-11",
+      "ja": "どちらでも好きなほうを選んでいいです。",
+      "en": "You may choose whichever you like.",
+      "blank": "You may [choose] [whichever] you like."
+    },
+    {
+      "section": 28,
+      "number": 12,
+      "id": "s28-12",
+      "ja": "彼女が料理するものは何でもおいしい。",
+      "en": "Whatever she cooks tastes good.",
+      "blank": "[Whatever] she [cooks] [tastes] good."
+    },
+    {
+      "section": 28,
+      "number": 13,
+      "id": "s28-13",
+      "ja": "私は持っていたわずかばかりのお金をユニセフに寄付しました。",
+      "en": "I donated what little money I had to UNICEF.",
+      "blank": "I [donated] what [little] [money] I had to UNICEF."
+    },
+    {
+      "section": 28,
+      "number": 14,
+      "id": "s28-14",
+      "ja": "私たちはたいへん疲れており、さらに悪いことに大雨が降り始めました。",
+      "en": "We were very tired, and what was worse, it began to rain heavily.",
+      "blank": "We were very [tired], and what was [worse], it began to rain [heavily]."
+    },
+    {
+      "section": 28,
+      "number": 15,
+      "id": "s28-15",
+      "ja": "あなたはここに自分の名前を書きさえすればいいのです。",
+      "en": "All you have to do is write your name here.",
+      "blank": "All you [have to] do is [write] your name here."
+    },
+    {
+      "section": 29,
+      "number": 1,
+      "id": "s29-01",
+      "ja": "彼はアメリカ人ですが、日本語が上手です。",
+      "en": "He is American, but he speaks Japanese well.",
+      "blank": "He is [American], but he [speaks] [Japanese] well."
+    },
+    {
+      "section": 29,
+      "number": 2,
+      "id": "s29-02",
+      "ja": "これは私の車ではなくて父のものです。",
+      "en": "This is not my car, but my father's.",
+      "blank": "This is not my [car], but my [father's]."
+    },
+    {
+      "section": 29,
+      "number": 3,
+      "id": "s29-03",
+      "ja": "たいへん暑かったので、私たちは海に泳ぎに行きました。",
+      "en": "Since it was very hot, we went swimming in the sea.",
+      "blank": "[Since] [it was] very hot, we went [swimming] in the sea."
+    },
+    {
+      "section": 29,
+      "number": 4,
+      "id": "s29-04",
+      "ja": "私は頭が痛いので行けません。",
+      "en": "I can't go because I have a headache.",
+      "blank": "I [can't] go because I have a [headache]."
+    },
+    {
+      "section": 29,
+      "number": 5,
+      "id": "s29-05",
+      "ja": "あなたはきっとこの本が好きになるでしょう。",
+      "en": "I am sure that you will like this book.",
+      "blank": "I am [sure] that you will [like] this book."
+    },
+    {
+      "section": 29,
+      "number": 6,
+      "id": "s29-06",
+      "ja": "この道を行けば公園に出ます。",
+      "en": "If you take this road, you will come to the park.",
+      "blank": "If you [take] this [road], you will come to the park."
+    },
+    {
+      "section": 29,
+      "number": 7,
+      "id": "s29-07",
+      "ja": "私は仕事を終えてから、テレビで野球の試合を見ました。",
+      "en": "After I finished my task, I watched a baseball game on TV.",
+      "blank": "After I [finished] my task, I [watched] a [baseball] game on TV."
+    },
+    {
+      "section": 29,
+      "number": 8,
+      "id": "s29-08",
+      "ja": "彼は学識はあるが良識に欠けています。",
+      "en": "Although he is well-educated, he lacks common sense.",
+      "blank": "Although he is [well-educated], he [lacks] [common] sense."
+    },
+    {
+      "section": 29,
+      "number": 9,
+      "id": "s29-09",
+      "ja": "彼女は大学を出るとすぐ技師と結婚しました。",
+      "en": "She got married to an engineer as soon as she left college.",
+      "blank": "She got [married] to an [engineer] [as soon as] she left college."
+    },
+    {
+      "section": 29,
+      "number": 10,
+      "id": "s29-10",
+      "ja": "君たちは自分のことだけでなく、ほかの人のことも考えるべきです。",
+      "en": "You should think not only about yourselves, but also about others.",
+      "blank": "You should think [not only] about [yourselves], [but also] about others."
+    },
+    {
+      "section": 29,
+      "number": 11,
+      "id": "s29-11",
+      "ja": "彼は疲れていたので、それ以上歩けませんでした。",
+      "en": "He was so tired that he could not walk any further.",
+      "blank": "He was so [tired] that he could not walk any [further]."
+    },
+    {
+      "section": 29,
+      "number": 12,
+      "id": "s29-12",
+      "ja": "彼女は一生懸命に働き、そして仕事で成功しました。",
+      "en": "She worked hard, so she succeeded in the business.",
+      "blank": "She [worked] hard, so she [succeeded] in the [business]."
+    },
+    {
+      "section": 29,
+      "number": 13,
+      "id": "s29-13",
+      "ja": "私の時計は進みもしなければ遅れもしません。",
+      "en": "My watch neither gains nor loses time.",
+      "blank": "My watch [neither] [gains] nor [loses] time."
+    },
+    {
+      "section": 29,
+      "number": 14,
+      "id": "s29-14",
+      "ja": "まもなく真相が分かるでしょう。",
+      "en": "It will not be long before we know the truth.",
+      "blank": "It will not be [long] before we know the [truth]."
+    },
+    {
+      "section": 29,
+      "number": 15,
+      "id": "s29-15",
+      "ja": "雨が降らなければ、彼はきっと来るでしょう。",
+      "en": "Unless it rains, he is sure to come.",
+      "blank": "[Unless] it [rains], he is sure to come."
+    },
+    {
+      "section": 30,
+      "number": 1,
+      "id": "s30-01",
+      "ja": "とても寒い日だったので私は家の中にいました。",
+      "en": "It was such a cold day that I stayed inside.",
+      "blank": "[It was] such a cold day that I [stayed] [inside]."
+    },
+    {
+      "section": 30,
+      "number": 2,
+      "id": "s30-02",
+      "ja": "あなたがそう言っても、彼はそれを信じないでしょう。",
+      "en": "Even if you say so, he will not believe it.",
+      "blank": "[Even if] you say so, he will not [believe] it."
+    },
+    {
+      "section": 30,
+      "number": 3,
+      "id": "s30-03",
+      "ja": "彼は今日は家にいるだろうか。",
+      "en": "I wonder if he is at home today.",
+      "blank": "I [wonder] if he is at home [today]."
+    },
+    {
+      "section": 30,
+      "number": 4,
+      "id": "s30-04",
+      "ja": "彼が来るかどうか分かりません。",
+      "en": "I don't know whether he will come or not.",
+      "blank": "I [don't] [know] whether he will come or not."
+    },
+    {
+      "section": 30,
+      "number": 5,
+      "id": "s30-05",
+      "ja": "ローマではローマ人がするようにせよ［郷に入っては郷に従え］。＜ことわざ＞",
+      "en": "When in Rome, do as the Romans do.",
+      "blank": "When in [Rome], do as the [Romans] do."
+    },
+    {
+      "section": 30,
+      "number": 6,
+      "id": "s30-06",
+      "ja": "意志あるところに道がある［精神一到何事か成らざらん］。＜ことわざ＞",
+      "en": "Where there is a will, there is a way.",
+      "blank": "Where [there is] a will, [there is] a way."
+    },
+    {
+      "section": 30,
+      "number": 7,
+      "id": "s30-07",
+      "ja": "私たちは健康を失って初めてそのありがたさが分かります。",
+      "en": "We don't realize the value of health until we lose it.",
+      "blank": "We [don't] [realize] the value of [health] until we lose it."
+    },
+    {
+      "section": 30,
+      "number": 8,
+      "id": "s30-08",
+      "ja": "子どもを起こさないように静かに歩きなさい。",
+      "en": "Walk quietly so that you will not wake the child.",
+      "blank": "Walk [quietly] [so that] you will not wake the [child]."
+    },
+    {
+      "section": 30,
+      "number": 9,
+      "id": "s30-09",
+      "ja": "困ったことに、彼はこのごろ健康がすぐれないのです。",
+      "en": "The trouble is that he is in poor health these days.",
+      "blank": "The [trouble] is that he is in poor [health] these days."
+    },
+    {
+      "section": 30,
+      "number": 10,
+      "id": "s30-10",
+      "ja": "この次に来るときは、弟さんを連れて来てください。",
+      "en": "Next time you come, please bring your brother with you.",
+      "blank": "Next time you come, [please] [bring] your [brother] with you."
+    },
+    {
+      "section": 30,
+      "number": 11,
+      "id": "s30-11",
+      "ja": "私はこのアルバムを見るたびに、楽しかった子どものころを思い出します。",
+      "en": "Every time I see this album, I think of my happy childhood.",
+      "blank": "[Every] time I see this [album], I think of my happy [childhood]."
+    },
+    {
+      "section": 30,
+      "number": 12,
+      "id": "s30-12",
+      "ja": "おもしろくありさえすれば、どんな本でも結構です。",
+      "en": "Any book will do as long as it is interesting.",
+      "blank": "Any book will do as long as [it is] [interesting]."
+    },
+    {
+      "section": 30,
+      "number": 13,
+      "id": "s30-13",
+      "ja": "暑かったけれども、私たちは出かけた。",
+      "en": "Hot as it was, we went out.",
+      "blank": "Hot as [it was], we [went] out."
+    },
+    {
+      "section": 30,
+      "number": 14,
+      "id": "s30-14",
+      "ja": "どんなに金持ちでも、何でも買えるとは限りません。",
+      "en": "However rich you are, you cannot buy everything.",
+      "blank": "[However] rich you are, you [cannot] buy [everything]."
+    },
+    {
+      "section": 30,
+      "number": 15,
+      "id": "s30-15",
+      "ja": "どんなことが起ころうと、くじけてはいけません。",
+      "en": "No matter what happens, don't be discouraged.",
+      "blank": "[No matter] what [happens], don't be [discouraged]."
+    },
+    {
+      "section": 31,
+      "number": 1,
+      "id": "s31-01",
+      "ja": "私は彼女が来るだろうと思いました。",
+      "en": "I thought she would come.",
+      "blank": "I [thought] she would [come]."
+    },
+    {
+      "section": 31,
+      "number": 2,
+      "id": "s31-02",
+      "ja": "彼は前日に私の伯父に会ったと言いました。",
+      "en": "He told me that he had seen my uncle the day before.",
+      "blank": "He [told] me that he had seen my [uncle] the day before."
+    },
+    {
+      "section": 31,
+      "number": 3,
+      "id": "s31-03",
+      "ja": "彼は毎朝散歩すると言いました。",
+      "en": "He said that he goes for a walk every morning.",
+      "blank": "He said that he goes for a walk [every] [morning]."
+    },
+    {
+      "section": 31,
+      "number": 4,
+      "id": "s31-04",
+      "ja": "彼は急がばまわれと言いました。",
+      "en": "He said that slow and steady wins the race.",
+      "blank": "He [said] that slow and [steady] wins the race."
+    },
+    {
+      "section": 31,
+      "number": 5,
+      "id": "s31-05",
+      "ja": "ベルリンの壁は1989年に崩壊したと先生がおっしゃいました。",
+      "en": "The teacher said that the Berlin Wall fell in 1989.",
+      "blank": "The [teacher] said that the [Berlin] Wall fell in 1989."
+    },
+    {
+      "section": 31,
+      "number": 6,
+      "id": "s31-06",
+      "ja": "彼の家族はみんな早起きです。",
+      "en": "His family are all early risers.",
+      "blank": "His [family] are all [early] [risers]."
+    },
+    {
+      "section": 31,
+      "number": 7,
+      "id": "s31-07",
+      "ja": "人は誰でも欠点があります。",
+      "en": "Every person has their faults.",
+      "blank": "[Every] [person] has their [faults]."
+    },
+    {
+      "section": 31,
+      "number": 8,
+      "id": "s31-08",
+      "ja": "カレーライスは私の好きな料理です。",
+      "en": "Curry and rice is my favorite dish.",
+      "blank": "[Curry] and rice is my [favorite] dish."
+    },
+    {
+      "section": 31,
+      "number": 9,
+      "id": "s31-09",
+      "ja": "白と黒のぶちの犬が猫を追いかけていました。",
+      "en": "A black and white dog was running after a cat.",
+      "blank": "A [black] and [white] dog was [running] after a cat."
+    },
+    {
+      "section": 31,
+      "number": 10,
+      "id": "s31-10",
+      "ja": "多くのトラックがこの高速道路を走っています。",
+      "en": "A large number of trucks are moving along this freeway.",
+      "blank": "A large number of [trucks] are [moving] along this [freeway]."
+    },
+    {
+      "section": 31,
+      "number": 11,
+      "id": "s31-11",
+      "ja": "日本人は勤勉な国民だと言う人もいます。",
+      "en": "Some say the Japanese are a hardworking people.",
+      "blank": "Some say the [Japanese] are a [hardworking] [people]."
+    },
+    {
+      "section": 31,
+      "number": 12,
+      "id": "s31-12",
+      "ja": "その委員会は月に1回開かれます。",
+      "en": "The committee meets once a month.",
+      "blank": "The [committee] [meets] once a [month]."
+    },
+    {
+      "section": 31,
+      "number": 13,
+      "id": "s31-13",
+      "ja": "これらのリンゴの半分は腐っています。",
+      "en": "Half of these apples are rotten.",
+      "blank": "Half of these [apples] are [rotten]."
+    },
+    {
+      "section": 31,
+      "number": 14,
+      "id": "s31-14",
+      "ja": "300マイルといえばあなたが運転するには大変な距離です。",
+      "en": "Three hundred miles is a great distance for you to drive.",
+      "blank": "Three [hundred] [miles] is a great [distance] for you to drive."
+    },
+    {
+      "section": 31,
+      "number": 15,
+      "id": "s31-15",
+      "ja": "君かまたは彼女にこの失敗の責任があります。",
+      "en": "Either you or she is to blame for this failure.",
+      "blank": "[Either] you or she is to [blame] for this [failure]."
+    },
+    {
+      "section": 32,
+      "number": 1,
+      "id": "s32-01",
+      "ja": "今日は何曜日ですか。",
+      "en": "What day of the week is it today?",
+      "blank": "What day of the [week] is it [today]?"
+    },
+    {
+      "section": 32,
+      "number": 2,
+      "id": "s32-02",
+      "ja": "だんだん暗くなっています。",
+      "en": "It is getting dark.",
+      "blank": "[It is] [getting] dark."
+    },
+    {
+      "section": 32,
+      "number": 3,
+      "id": "s32-03",
+      "ja": "ここからその工場までどのくらいの距離がありますか。",
+      "en": "How far is it from here to the factory?",
+      "blank": "How [far] is it from here to the [factory]?"
+    },
+    {
+      "section": 32,
+      "number": 4,
+      "id": "s32-04",
+      "ja": "ここから学校まで歩いて5分です。",
+      "en": "It is a five-minute walk from here to the school.",
+      "blank": "[It is] a [five-minute] walk from here to the [school]."
+    },
+    {
+      "section": 32,
+      "number": 5,
+      "id": "s32-05",
+      "ja": "私は泳げるようになるのに1週間かかりました。",
+      "en": "It took me a week to learn to swim.",
+      "blank": "It [took] me a week to [learn] to swim."
+    },
+    {
+      "section": 32,
+      "number": 6,
+      "id": "s32-06",
+      "ja": "小学校を卒業して10年たちます。",
+      "en": "It has been ten years since we graduated from elementary school.",
+      "blank": "It has been ten [years] since we [graduated] from [elementary] school."
+    },
+    {
+      "section": 32,
+      "number": 7,
+      "id": "s32-07",
+      "ja": "こぼれたミルクを嘆いてもむだである［覆水盆に返らず／後悔先に立たず］。＜ことわざ＞",
+      "en": "It is no use crying over spilt milk.",
+      "blank": "[It is] no use [crying] over [spilt] milk."
+    },
+    {
+      "section": 32,
+      "number": 8,
+      "id": "s32-08",
+      "ja": "明日何が起こるか分かりません。",
+      "en": "It is impossible to know what will happen tomorrow.",
+      "blank": "[It is] [impossible] to know what will happen [tomorrow]."
+    },
+    {
+      "section": 32,
+      "number": 9,
+      "id": "s32-09",
+      "ja": "あなたは教科書を家に置き忘れるなんて不注意でしたね。",
+      "en": "It was careless of you to leave your textbook at home.",
+      "blank": "[It was] [careless] of you to leave your [textbook] at home."
+    },
+    {
+      "section": 32,
+      "number": 10,
+      "id": "s32-10",
+      "ja": "あなたが私たちのゲームに参加できないのは残念です。",
+      "en": "It's a pity that you can't join us in the game.",
+      "blank": "It's a [pity] that you [can't] join us in the game."
+    },
+    {
+      "section": 32,
+      "number": 11,
+      "id": "s32-11",
+      "ja": "彼が自分の行為を恥じるのは当然です。",
+      "en": "It is natural that he is ashamed of his actions.",
+      "blank": "[It is] natural that he is [ashamed] of his [actions]."
+    },
+    {
+      "section": 32,
+      "number": 12,
+      "id": "s32-12",
+      "ja": "電車が時間どおりに来ないのは変だ。",
+      "en": "It is strange that the train doesn't come on time.",
+      "blank": "[It is] [strange] that the train [doesn't] come on time."
+    },
+    {
+      "section": 32,
+      "number": 13,
+      "id": "s32-13",
+      "ja": "久しぶりですね。",
+      "en": "It's been a long time since I saw you last.",
+      "blank": "It's been a [long] time [since] I saw you last."
+    },
+    {
+      "section": 32,
+      "number": 14,
+      "id": "s32-14",
+      "ja": "健康は富にまさるということは言うまでもありません。",
+      "en": "It goes without saying that health is better than wealth.",
+      "blank": "It goes [without] [saying] that [health] is better than wealth."
+    },
+    {
+      "section": 32,
+      "number": 15,
+      "id": "s32-15",
+      "ja": "こんないい天気の日に家にいるのは愚かなことだと思いませんか。",
+      "en": "Don't you think it foolish to stay indoors on such a lovely day?",
+      "blank": "Don't you think it [foolish] to stay [indoors] on such a [lovely] day?"
+    },
+    {
+      "section": 33,
+      "number": 1,
+      "id": "s33-01",
+      "ja": "お金の持ち合わせがあったら、少し借りてもいいですか。",
+      "en": "If you have any money with you, can I borrow some?",
+      "blank": "If you have any [money] with you, can I [borrow] some?"
+    },
+    {
+      "section": 33,
+      "number": 2,
+      "id": "s33-02",
+      "ja": "この詩は誰でも暗記できます。",
+      "en": "Anybody can learn this poem by heart.",
+      "blank": "[Anybody] can [learn] this poem [by heart]."
+    },
+    {
+      "section": 33,
+      "number": 3,
+      "id": "s33-03",
+      "ja": "神は努力する人々を助けてくださる［天は自ら助くる者を助く］。＜ことわざ＞",
+      "en": "Heaven helps those who help themselves.",
+      "blank": "[Heaven] [helps] those who help themselves."
+    },
+    {
+      "section": 33,
+      "number": 4,
+      "id": "s33-04",
+      "ja": "彼は広い家に一人で住んでいます。",
+      "en": "He lives in a large house by himself.",
+      "blank": "He [lives] in a [large] [house] by himself."
+    },
+    {
+      "section": 33,
+      "number": 5,
+      "id": "s33-05",
+      "ja": "この上着は古すぎる。新しいものを買わなければなりません。",
+      "en": "This coat is too old. I must buy a new one.",
+      "blank": "This [coat] is [too] old. I must buy a new one."
+    },
+    {
+      "section": 33,
+      "number": 6,
+      "id": "s33-06",
+      "ja": "このズボンは小さすぎる。もっと大きいのを見せてください。",
+      "en": "These trousers are too small. Show me some larger ones.",
+      "blank": "These [trousers] are too [small]. Show me some [larger] ones."
+    },
+    {
+      "section": 33,
+      "number": 7,
+      "id": "s33-07",
+      "ja": "彼女にはどことなく気品があります。",
+      "en": "There is something noble about her.",
+      "blank": "[There is] [something] [noble] about her."
+    },
+    {
+      "section": 33,
+      "number": 8,
+      "id": "s33-08",
+      "ja": "私の車はどこか調子が悪い。",
+      "en": "Something is wrong with my car.",
+      "blank": "[Something] is [wrong] with my car."
+    },
+    {
+      "section": 33,
+      "number": 9,
+      "id": "s33-09",
+      "ja": "その曲を作ったのはジョンでした。",
+      "en": "It was John that wrote the song.",
+      "blank": "[It was] John that [wrote] the song."
+    },
+    {
+      "section": 33,
+      "number": 10,
+      "id": "s33-10",
+      "ja": "私が劇場へ行ったのは土曜日の午後でした。",
+      "en": "It was on Saturday afternoon that I went to the theater.",
+      "blank": "[It was] on Saturday [afternoon] that I went to the [theater]."
+    },
+    {
+      "section": 33,
+      "number": 11,
+      "id": "s33-11",
+      "ja": "彼が来ても来なくてもかまいません。",
+      "en": "It doesn't matter whether he comes or not.",
+      "blank": "It [doesn't] [matter] whether he [comes] or not."
+    },
+    {
+      "section": 33,
+      "number": 12,
+      "id": "s33-12",
+      "ja": "私たちは犬を2匹飼っています。1匹は黒でもう1匹は白です。",
+      "en": "We have two dogs. One is black and the other is white.",
+      "blank": "We have two dogs. One is [black] and the [other] is [white]."
+    },
+    {
+      "section": 33,
+      "number": 13,
+      "id": "s33-13",
+      "ja": "知っていることと教えることは別です。",
+      "en": "To know is one thing, and to teach is another.",
+      "blank": "To know is one [thing], and to [teach] is [another]."
+    },
+    {
+      "section": 33,
+      "number": 14,
+      "id": "s33-14",
+      "ja": "「そうだ」と言う人もいれば、「違う」と言う人もいます。",
+      "en": "Some say \"yes\" and others say \"no.\"",
+      "blank": "[Some] say \"yes\" and [others] say \"no.\""
+    },
+    {
+      "section": 33,
+      "number": 15,
+      "id": "s33-15",
+      "ja": "日本の気候はイングランドの気候より穏やかです。",
+      "en": "The climate of Japan is milder than that of England.",
+      "blank": "The [climate] of Japan is [milder] than that of [England]."
+    },
+    {
+      "section": 34,
+      "number": 1,
+      "id": "s34-01",
+      "ja": "彼の住所を知っていれば、彼に手紙を出すのですが。",
+      "en": "If I knew his address, I would write to him.",
+      "blank": "If I knew his [address], I would [write to] him."
+    },
+    {
+      "section": 34,
+      "number": 2,
+      "id": "s34-02",
+      "ja": "あなたの車がなければ、私たちは間に合うようにそこには着かないでしょう。",
+      "en": "If it were not for your car, we would not get there in time.",
+      "blank": "If it were not for your [car], we would not get there in [time]."
+    },
+    {
+      "section": 34,
+      "number": 3,
+      "id": "s34-03",
+      "ja": "水がなければ、植物は1日も生きられないでしょう。",
+      "en": "Without water, no plant could live for even a single day.",
+      "blank": "[Without] [water], no plant could live for even a [single] day."
+    },
+    {
+      "section": 34,
+      "number": 4,
+      "id": "s34-04",
+      "ja": "その少女は何もかも知っているかのような口ぶりです。",
+      "en": "That girl talks as if she knew everything.",
+      "blank": "That girl [talks] [as if] she knew [everything]."
+    },
+    {
+      "section": 34,
+      "number": 5,
+      "id": "s34-05",
+      "ja": "あなたぐらい上手に英語が話せるといいのですが。",
+      "en": "I wish I could speak English as well as you.",
+      "blank": "I wish I could [speak] [English] [as well as] you."
+    },
+    {
+      "section": 34,
+      "number": 6,
+      "id": "s34-06",
+      "ja": "時間が十分にあったら、もっと京都を見ることができたのですが。",
+      "en": "If I had had enough time, I could have seen more of Kyoto.",
+      "blank": "If I had had [enough] time, I could have seen more of [Kyoto]."
+    },
+    {
+      "section": 34,
+      "number": 7,
+      "id": "s34-07",
+      "ja": "あなたの援助がなかったら、計画は実行できなかったでしょう。",
+      "en": "Had it not been for your help, we could not have carried out the plan.",
+      "blank": "Had it not been for your [help], we could not have [carried] out the plan."
+    },
+    {
+      "section": 34,
+      "number": 8,
+      "id": "s34-08",
+      "ja": "もっと早めに君がそれを言ってくれていたらよかったのに。",
+      "en": "I wish you had told that sooner.",
+      "blank": "I [wish] you had told that [sooner]."
+    },
+    {
+      "section": 34,
+      "number": 9,
+      "id": "s34-09",
+      "ja": "もし万一私の助けがいるならば、遠慮なく電話してください。",
+      "en": "If you should need my help, do not hesitate to call me.",
+      "blank": "If you should [need] my help, do not [hesitate] to call me."
+    },
+    {
+      "section": 34,
+      "number": 10,
+      "id": "s34-10",
+      "ja": "仮に太陽が西から昇ることがあっても、私は決心を変えません。",
+      "en": "Even if the sun were to rise in the west, I would not change my mind.",
+      "blank": "[Even if] the sun were to rise in the west, I would not [change] my mind."
+    },
+    {
+      "section": 34,
+      "number": 11,
+      "id": "s34-11",
+      "ja": "正直な人なら、そんな行動はしないでしょう。",
+      "en": "An honest man would never act like that.",
+      "blank": "An [honest] man would [never] act like that."
+    },
+    {
+      "section": 34,
+      "number": 12,
+      "id": "s34-12",
+      "ja": "もう寝る時間ですよ。",
+      "en": "It's high time you went to bed.",
+      "blank": "It's [high] [time] you went to bed."
+    },
+    {
+      "section": 34,
+      "number": 13,
+      "id": "s34-13",
+      "ja": "彼は多くの単語を知っている。彼はいわば生き字引です。",
+      "en": "He knows lots of words. He is, as it were, a walking dictionary.",
+      "blank": "He knows [lots of] words. He is, as it were, a [walking] [dictionary]."
+    },
+    {
+      "section": 34,
+      "number": 14,
+      "id": "s34-14",
+      "ja": "彼が英語を話すのを聞けば、アメリカ人だと思うでしょう。",
+      "en": "To hear him speak English, you would take him for an American.",
+      "blank": "To hear him [speak] [English], you would take him for an [American]."
+    },
+    {
+      "section": 34,
+      "number": 15,
+      "id": "s34-15",
+      "ja": "もし私が彼女の助言に従っていたならば、今頃は金持ちになっていることだろう。",
+      "en": "If I had taken her advice, I would be a rich man now.",
+      "blank": "If I had [taken] her [advice], I would be a rich man now."
+    },
+    {
+      "section": 35,
+      "number": 1,
+      "id": "s35-01",
+      "ja": "私は今日の午後に事務所にいる彼を訪ねるつもりです。",
+      "en": "I will call on him at his office this afternoon.",
+      "blank": "I will [call on] him at his [office] this [afternoon]."
+    },
+    {
+      "section": 35,
+      "number": 2,
+      "id": "s35-02",
+      "ja": "彼らは朝から晩まで働きました。",
+      "en": "They worked from morning till night.",
+      "blank": "They [worked] from [morning] till [night]."
+    },
+    {
+      "section": 35,
+      "number": 3,
+      "id": "s35-03",
+      "ja": "彼は2015年11月1日の朝生まれました。",
+      "en": "He was born on the morning of November 1st, 2015.",
+      "blank": "He was born on the [morning] of [November] 1st, 2015."
+    },
+    {
+      "section": 35,
+      "number": 4,
+      "id": "s35-04",
+      "ja": "彼女は5月3日に東京へ向けて鹿児島を出発するでしょう。",
+      "en": "She will leave Kagoshima for Tokyo on May 3rd.",
+      "blank": "She will [leave] [Kagoshima] for [Tokyo] on May 3rd."
+    },
+    {
+      "section": 35,
+      "number": 5,
+      "id": "s35-05",
+      "ja": "あなたは7時までに帰って来なければなりません。",
+      "en": "You must be back by seven.",
+      "blank": "You must be [back] by [seven]."
+    },
+    {
+      "section": 35,
+      "number": 6,
+      "id": "s35-06",
+      "ja": "この本はたいへん役に立つでしょう。",
+      "en": "This book will be of great use to you.",
+      "blank": "This [book] will be of [great] use to you."
+    },
+    {
+      "section": 35,
+      "number": 7,
+      "id": "s35-07",
+      "ja": "私はこの点であなたに賛成できません。",
+      "en": "I don't agree with you on this point.",
+      "blank": "I [don't] [agree with] you on this [point]."
+    },
+    {
+      "section": 35,
+      "number": 8,
+      "id": "s35-08",
+      "ja": "君はその計画に賛成ですか、反対ですか。",
+      "en": "Are you for or against the plan?",
+      "blank": "Are you for or [against] the [plan]?"
+    },
+    {
+      "section": 35,
+      "number": 9,
+      "id": "s35-09",
+      "ja": "遅かれ早かれ、彼女はショックから立ち直るでしょう。",
+      "en": "She will get over the shock sooner or later.",
+      "blank": "She will [get over] the [shock] [sooner] or later."
+    },
+    {
+      "section": 35,
+      "number": 10,
+      "id": "s35-10",
+      "ja": "その男は私から財布を奪いました。",
+      "en": "The man robbed me of my purse.",
+      "blank": "The man [robbed] me of my [purse]."
+    },
+    {
+      "section": 35,
+      "number": 11,
+      "id": "s35-11",
+      "ja": "母は私の健康をたいへん心配しています。",
+      "en": "My mother is very anxious about my health.",
+      "blank": "My [mother] is very [anxious] about my [health]."
+    },
+    {
+      "section": 35,
+      "number": 12,
+      "id": "s35-12",
+      "ja": "「温泉」に相当する英語は何ですか。",
+      "en": "What is the English word for \"onsen\"?",
+      "blank": "What is the [English] word for \"[onsen]\"?"
+    },
+    {
+      "section": 35,
+      "number": 13,
+      "id": "s35-13",
+      "ja": "野球チームは9人の選手から成り立っています。",
+      "en": "A baseball team consists of nine players.",
+      "blank": "A [baseball] team [consists] of nine [players]."
+    },
+    {
+      "section": 35,
+      "number": 14,
+      "id": "s35-14",
+      "ja": "私は何冊かの本をイギリスに注文しました。",
+      "en": "I ordered some books from the UK.",
+      "blank": "I [ordered] some [books] from the UK."
+    },
+    {
+      "section": 35,
+      "number": 15,
+      "id": "s35-15",
+      "ja": "演説者は聴衆の目をまともに見なければなりません。",
+      "en": "A speaker should look their audience straight in the eye.",
+      "blank": "A speaker should look their [audience] [straight] [in the eye]."
+    },
+    {
+      "section": 36,
+      "number": 1,
+      "id": "s36-01",
+      "ja": "このかばんは革製です。",
+      "en": "This bag is made of leather.",
+      "blank": "This bag is [made] of [leather]."
+    },
+    {
+      "section": 36,
+      "number": 2,
+      "id": "s36-02",
+      "ja": "ワインはぶどうから作られます。",
+      "en": "Wine is made from grapes.",
+      "blank": "[Wine] is made from [grapes]."
+    },
+    {
+      "section": 36,
+      "number": 3,
+      "id": "s36-03",
+      "ja": "激しい雨のために私たちの体育祭は中止になりました。",
+      "en": "Our sports day was called off due to heavy rain.",
+      "blank": "Our [sports] day was [called] off [due to] heavy rain."
+    },
+    {
+      "section": 36,
+      "number": 4,
+      "id": "s36-04",
+      "ja": "牛乳はバターやチーズに加工されることがあります。",
+      "en": "Milk can be made into butter and cheese.",
+      "blank": "Milk can [be made into] [butter] and [cheese]."
+    },
+    {
+      "section": 36,
+      "number": 5,
+      "id": "s36-05",
+      "ja": "それについての私の意見は、あなたの意見と違います。",
+      "en": "My opinion on that is different from yours.",
+      "blank": "My [opinion] on that is [different] from yours."
+    },
+    {
+      "section": 36,
+      "number": 6,
+      "id": "s36-06",
+      "ja": "彼は年のわりには若く見えます。",
+      "en": "He looks young for his age.",
+      "blank": "He [looks] [young] for his age."
+    },
+    {
+      "section": 36,
+      "number": 7,
+      "id": "s36-07",
+      "ja": "彼女は白い服を着ていました。",
+      "en": "She was dressed in white.",
+      "blank": "She was [dressed] in [white]."
+    },
+    {
+      "section": 36,
+      "number": 8,
+      "id": "s36-08",
+      "ja": "その少年はうそをついたので両親にしかられました。",
+      "en": "The boy was scolded by his parents for lying.",
+      "blank": "The boy was [scolded] by his [parents] for [lying]."
+    },
+    {
+      "section": 36,
+      "number": 9,
+      "id": "s36-09",
+      "ja": "この手紙を英語に訳してください。",
+      "en": "Please translate this letter into English.",
+      "blank": "[Please] [translate] this [letter] into English."
+    },
+    {
+      "section": 36,
+      "number": 10,
+      "id": "s36-10",
+      "ja": "私は同じ話をこうたびたび聞くのがいやになりました。",
+      "en": "I am tired of hearing the same story so often.",
+      "blank": "I am [tired] of [hearing] the same [story] so often."
+    },
+    {
+      "section": 36,
+      "number": 11,
+      "id": "s36-11",
+      "ja": "君はバターとマーガリンの区別ができますか。",
+      "en": "Can you tell butter from margarine?",
+      "blank": "Can you tell [butter] from [margarine]?"
+    },
+    {
+      "section": 36,
+      "number": 12,
+      "id": "s36-12",
+      "ja": "コーヒーを飲みながらそのことを話しましょう。",
+      "en": "Let's talk about it over a cup of coffee.",
+      "blank": "[Let's] [talk about] it over a cup of [coffee]."
+    },
+    {
+      "section": 36,
+      "number": 13,
+      "id": "s36-13",
+      "ja": "今日の新聞によると、イタリアで地震があったそうです。",
+      "en": "According to today's paper, there was an earthquake in Italy.",
+      "blank": "[According to] [today's] paper, there was an [earthquake] in Italy."
+    },
+    {
+      "section": 36,
+      "number": 14,
+      "id": "s36-14",
+      "ja": "金持ちにもかかわらず、彼は少しも幸福ではありません。",
+      "en": "In spite of his wealth, he is far from happy.",
+      "blank": "[In spite of] his [wealth], he is far from [happy]."
+    },
+    {
+      "section": 36,
+      "number": 15,
+      "id": "s36-15",
+      "ja": "彼らはドイツ語ではなくスペイン語を学びました。",
+      "en": "They learned Spanish instead of German.",
+      "blank": "They [learned] [Spanish] [instead of] German."
+    },
+    {
+      "section": 37,
+      "number": 1,
+      "id": "s37-01",
+      "ja": "明日の試合がんばってね！",
+      "en": "Good luck with the game tomorrow!",
+      "blank": "[Good] luck with the game [tomorrow]!"
+    },
+    {
+      "section": 37,
+      "number": 2,
+      "id": "s37-02",
+      "ja": "がんばれ！＜その場で応援するときの掛け声＞",
+      "en": "You can do it! / Hang in there! / Go for it!",
+      "blank": "You can [do] it! / [Hang] in there! / Go for it!"
+    },
+    {
+      "section": 37,
+      "number": 3,
+      "id": "s37-03",
+      "ja": "お願いがあるのですが。",
+      "en": "Would you do me a favor?",
+      "blank": "Would you [do] me a [favor]?"
+    },
+    {
+      "section": 37,
+      "number": 4,
+      "id": "s37-04",
+      "ja": "「大人になったら何になりたいですか」「獣医です」",
+      "en": "\"What do you want to do when you grow up?\" \"I want to be a vet.\"",
+      "blank": "\"What do you [want] to do when you [grow] up?\" \"I want to be a vet.\""
+    },
+    {
+      "section": 37,
+      "number": 5,
+      "id": "s37-05",
+      "ja": "「どうしてそんなに早く帰ってきたの」「ヘンリーが家にいなかったからだよ」",
+      "en": "\"How come you got back so early?\" \"Henry was not at home.\"",
+      "blank": "\"How come you got back so [early]?\" \"[Henry] was not at home.\""
+    },
+    {
+      "section": 37,
+      "number": 6,
+      "id": "s37-06",
+      "ja": "卒業おめでとう。",
+      "en": "Congratulations on your graduation.",
+      "blank": "[Congratulations] on your [graduation]."
+    },
+    {
+      "section": 37,
+      "number": 7,
+      "id": "s37-07",
+      "ja": "彼はちょうど今電話に出られません、少しお待ちください。",
+      "en": "He is not available right now, but hold on a minute.",
+      "blank": "He is not [available] [right] now, but hold on a [minute]."
+    },
+    {
+      "section": 37,
+      "number": 8,
+      "id": "s37-08",
+      "ja": "「伝言をお願いできますか」「いいですよ。どうぞ」",
+      "en": "\"May I leave a message?\" \"Sure, go ahead.\"",
+      "blank": "\"May I [leave] a [message]?\" \"Sure, go [ahead].\""
+    },
+    {
+      "section": 37,
+      "number": 9,
+      "id": "s37-09",
+      "ja": "あなたのご家族によろしくお伝えください。",
+      "en": "Give my best regards to your family.",
+      "blank": "Give my best [regards] to your [family]."
+    },
+    {
+      "section": 37,
+      "number": 10,
+      "id": "s37-10",
+      "ja": "「調子はどう？」「変わりないよ。君はどうだい？」",
+      "en": "\"What's up?\" \"Nothing much. How about you?\"",
+      "blank": "\"What's up?\" \"[Nothing] [much]. How about you?\""
+    },
+    {
+      "section": 37,
+      "number": 11,
+      "id": "s37-11",
+      "ja": "「久しぶりだね。今度の仕事はどう？」「悪くないよ」",
+      "en": "\"Long time no see. How do you like your new job?\" \"It's not bad.\"",
+      "blank": "\"[Long] [time] no see. How do you like your new job?\" \"It's not bad.\""
+    },
+    {
+      "section": 37,
+      "number": 12,
+      "id": "s37-12",
+      "ja": "「何かお探しですか」「いいえ、結構です。ただ見ているだけですから」",
+      "en": "\"Can I help you?\" \"No, thank you. I'm just looking.\"",
+      "blank": "\"Can I help you?\" \"No, [thank] you. I'm just [looking].\""
+    },
+    {
+      "section": 37,
+      "number": 13,
+      "id": "s37-13",
+      "ja": "「あなたはお祭りに行くつもりですか」「状況次第ですね」",
+      "en": "\"Are you going to the festival?\" \"It depends.\"",
+      "blank": "\"Are you [going] to the [festival]?\" \"It [depends].\""
+    },
+    {
+      "section": 37,
+      "number": 14,
+      "id": "s37-14",
+      "ja": "「約束あるでしょ。間に合うの？」「うん、大丈夫」",
+      "en": "\"You have an appointment. Can you make it?\" \"Sure, no problem.\"",
+      "blank": "\"You have an [appointment]. Can you make it?\" \"Sure, no [problem].\""
+    },
+    {
+      "section": 37,
+      "number": 15,
+      "id": "s37-15",
+      "ja": "「その書類の締め切りはいつですか」「あわてなくていいですよ。急いでいませんから」",
+      "en": "\"When is the paper due?\" \"Take your time. We are not in a hurry.\"",
+      "blank": "\"When is the [paper] due?\" \"Take your time. We are not in a [hurry].\""
+    },
+    {
+      "section": 38,
+      "number": 1,
+      "id": "s38-01",
+      "ja": "すみませんが、もうおいとましなければなりません。",
+      "en": "I'm sorry, but I've got to go now.",
+      "blank": "I'm [sorry], but [I've] got to go now."
+    },
+    {
+      "section": 38,
+      "number": 2,
+      "id": "s38-02",
+      "ja": "向こうにいる警察官に聞いてみたらどう？",
+      "en": "Why don't you ask the police officer over there?",
+      "blank": "Why [don't] you ask the [police] [officer] over there?"
+    },
+    {
+      "section": 38,
+      "number": 3,
+      "id": "s38-03",
+      "ja": "「私もこの辺は初めてなのです。すみませんがお役に立てません」「とにかくありがとう」",
+      "en": "\"I'm a stranger around here too. Sorry, I can't help you.\" \"Thanks anyway.\"",
+      "blank": "\"I'm a [stranger] around here too. Sorry, I can't help you.\" \"[Thanks] [anyway].\""
+    },
+    {
+      "section": 38,
+      "number": 4,
+      "id": "s38-04",
+      "ja": "「今日は熱があります」「あら、それはお気の毒に」",
+      "en": "\"I have a fever today.\" \"Oh, that's too bad.\"",
+      "blank": "\"I have a [fever] [today].\" \"Oh, that's too bad.\""
+    },
+    {
+      "section": 38,
+      "number": 5,
+      "id": "s38-05",
+      "ja": "「ああ、チケットがない！」「ジョン、落ち着いて。ここにあるよ」",
+      "en": "\"Oh no, I've lost my ticket!\" \"Calm down, John. Here it is.\"",
+      "blank": "\"Oh no, I've lost my [ticket]!\" \"Calm down, John. Here [it is].\""
+    },
+    {
+      "section": 38,
+      "number": 6,
+      "id": "s38-06",
+      "ja": "「図書館まで私を車で迎えに来てくれませんか」「すみません、あいにく行けません」",
+      "en": "\"Can you pick me up at the library?\" \"Sorry, I'm afraid not.\"",
+      "blank": "\"Can you pick me up at the [library]?\" \"[Sorry], I'm [afraid] not.\""
+    },
+    {
+      "section": 38,
+      "number": 7,
+      "id": "s38-07",
+      "ja": "ご助言いただけるとありがたいです。",
+      "en": "I'd appreciate it if you would give me some advice.",
+      "blank": "I'd [appreciate] it if you would give me some [advice]."
+    },
+    {
+      "section": 38,
+      "number": 8,
+      "id": "s38-08",
+      "ja": "「台湾に旅行しませんか」「いいですね」",
+      "en": "\"How about taking a trip to Taiwan?\" \"Sounds good to me.\"",
+      "blank": "\"How about [taking] a trip to [Taiwan]?\" \"[Sounds] good to me.\""
+    },
+    {
+      "section": 38,
+      "number": 9,
+      "id": "s38-09",
+      "ja": "「一緒に来ませんか」「ええ、いいですよ」",
+      "en": "\"Do you want to come along?\" \"Yeah, why not?\"",
+      "blank": "\"Do you [want] to come [along]?\" \"Yeah, why not?\""
+    },
+    {
+      "section": 38,
+      "number": 10,
+      "id": "s38-10",
+      "ja": "「鹿児島をご案内します」「ありがとう」",
+      "en": "\"I'll show you around Kagoshima.\" \"That's kind of you.\"",
+      "blank": "\"[I'll] show you around [Kagoshima].\" \"That's kind of you.\""
+    },
+    {
+      "section": 38,
+      "number": 11,
+      "id": "s38-11",
+      "ja": "「昨日誰とデートしたの」「あなたには関係ないでしょう」",
+      "en": "\"Who did you go out with yesterday?\" \"That's none of your business.\"",
+      "blank": "\"Who did you [go out] with [yesterday]?\" \"That's none of your [business].\""
+    },
+    {
+      "section": 38,
+      "number": 12,
+      "id": "s38-12",
+      "ja": "彼が東京に行ってしまって、とても寂しいです。",
+      "en": "Now that he's gone to Tokyo, I miss him very much.",
+      "blank": "Now that he's [gone] to [Tokyo], I miss him very much."
+    },
+    {
+      "section": 38,
+      "number": 13,
+      "id": "s38-13",
+      "ja": "「日曜日はいつもここは混雑するね」「どうしようもないよ」",
+      "en": "\"The traffic is heavy on Sundays here.\" \"It can't be helped.\"",
+      "blank": "\"The [traffic] is heavy on [Sundays] here.\" \"It can't be [helped].\""
+    },
+    {
+      "section": 38,
+      "number": 14,
+      "id": "s38-14",
+      "ja": "「もうこの行列に並ぶのはうんざりです」「私もです」",
+      "en": "\"I'm fed up with standing in this line.\" \"So am I.\"",
+      "blank": "\"I'm fed up with [standing] in this [line].\" \"So am I.\""
+    },
+    {
+      "section": 38,
+      "number": 15,
+      "id": "s38-15",
+      "ja": "「テストはとても簡単だったね」「冗談でしょ！」",
+      "en": "\"The exam was a piece of cake.\" \"You must be kidding!\"",
+      "blank": "\"The exam was a [piece] of cake.\" \"You must be [kidding]!\""
+    },
+    {
+      "section": 39,
+      "number": 1,
+      "id": "s39-01",
+      "ja": "この機械は故障しています。",
+      "en": "This machine is out of order.",
+      "blank": "This [machine] is [out of order]."
+    },
+    {
+      "section": 39,
+      "number": 2,
+      "id": "s39-02",
+      "ja": "私はこの辞典なしですらすことはできません。",
+      "en": "I can't do without this dictionary.",
+      "blank": "I [can't] do [without] this [dictionary]."
+    },
+    {
+      "section": 39,
+      "number": 3,
+      "id": "s39-03",
+      "ja": "お好きなものを何でも召し上がってください。",
+      "en": "Help yourself to anything you like.",
+      "blank": "Help [yourself] to [anything] you like."
+    },
+    {
+      "section": 39,
+      "number": 4,
+      "id": "s39-04",
+      "ja": "彼女は九州で生まれ、育ちました。",
+      "en": "She was born and raised in Kyushu.",
+      "blank": "She was born and [raised] in [Kyushu]."
+    },
+    {
+      "section": 39,
+      "number": 5,
+      "id": "s39-05",
+      "ja": "君は時間をうまく利用しなければなりません。",
+      "en": "You must make good use of your time.",
+      "blank": "You must [make good use of] your [time]."
+    },
+    {
+      "section": 39,
+      "number": 6,
+      "id": "s39-06",
+      "ja": "私は何と言っていいか途方に暮れました。",
+      "en": "I was at a loss for words.",
+      "blank": "I was [at a loss for] [words]."
+    },
+    {
+      "section": 39,
+      "number": 7,
+      "id": "s39-07",
+      "ja": "彼は困っている人を見かけると知らぬ顔はできません。",
+      "en": "He cannot ignore a person in trouble.",
+      "blank": "He [cannot] [ignore] a person in [trouble]."
+    },
+    {
+      "section": 39,
+      "number": 8,
+      "id": "s39-08",
+      "ja": "彼らは彼を自分たちのリーダーとして尊敬しました。",
+      "en": "They looked up to him as their leader.",
+      "blank": "They [looked] up to him as their [leader]."
+    },
+    {
+      "section": 39,
+      "number": 9,
+      "id": "s39-09",
+      "ja": "その町は古い城で有名です。",
+      "en": "The town is famous for its old castle.",
+      "blank": "The town is [famous] for its old [castle]."
+    },
+    {
+      "section": 39,
+      "number": 10,
+      "id": "s39-10",
+      "ja": "彼はあの悪い癖をやめることはできませんでした。",
+      "en": "He couldn't get rid of that bad habit.",
+      "blank": "He [couldn't] [get rid of] that bad [habit]."
+    },
+    {
+      "section": 39,
+      "number": 11,
+      "id": "s39-11",
+      "ja": "この写真を見るとあの楽しかった時代を思い出します。",
+      "en": "This picture reminds me of those happy days.",
+      "blank": "This [picture] [reminds] me of those [happy] days."
+    },
+    {
+      "section": 39,
+      "number": 12,
+      "id": "s39-12",
+      "ja": "彼女はおととい昔の友達にばったり会いました。",
+      "en": "She came across her old friend two days ago.",
+      "blank": "She came [across] her old [friend] two days ago."
+    },
+    {
+      "section": 39,
+      "number": 13,
+      "id": "s39-13",
+      "ja": "ジェームズは日本の習慣をよく知っています。",
+      "en": "James is familiar with Japanese customs.",
+      "blank": "[James] is [familiar] with Japanese [customs]."
+    },
+    {
+      "section": 39,
+      "number": 14,
+      "id": "s39-14",
+      "ja": "ここだけの話だが、彼が成功する見込みはほとんどないよ。",
+      "en": "Just between us, there is little hope of his success.",
+      "blank": "Just between us, [there is] [little] hope of his [success]."
+    },
+    {
+      "section": 39,
+      "number": 15,
+      "id": "s39-15",
+      "ja": "ところで、あなたの留守中に誰が犬の世話をするのですか。",
+      "en": "By the way, who'll look after your dog during your absence?",
+      "blank": "By the way, [who'll] look after your dog during your [absence]?"
+    },
+    {
+      "section": 40,
+      "number": 1,
+      "id": "s40-01",
+      "ja": "さあ、駅に着きました。",
+      "en": "Here we are at the station.",
+      "blank": "[Here] we are at the [station]."
+    },
+    {
+      "section": 40,
+      "number": 2,
+      "id": "s40-02",
+      "ja": "秋刀魚は秋が旬です。",
+      "en": "Saury are in season in fall.",
+      "blank": "[Saury] are in [season] in fall."
+    },
+    {
+      "section": 40,
+      "number": 3,
+      "id": "s40-03",
+      "ja": "彼はどうしたのだろうか。",
+      "en": "I wonder what has become of him.",
+      "blank": "I [wonder] what has [become] of him."
+    },
+    {
+      "section": 40,
+      "number": 4,
+      "id": "s40-04",
+      "ja": "彼女は弁護士になろうと決心しました。",
+      "en": "She made up her mind to become a lawyer.",
+      "blank": "She made up her mind to [become] a [lawyer]."
+    },
+    {
+      "section": 40,
+      "number": 5,
+      "id": "s40-05",
+      "ja": "私は彼の無作法には我慢できません。",
+      "en": "I can't put up with his bad manners.",
+      "blank": "I [can't] [put up with] his bad [manners]."
+    },
+    {
+      "section": 40,
+      "number": 6,
+      "id": "s40-06",
+      "ja": "自転車はいくらしましたか。",
+      "en": "How much did you pay for your bicycle?",
+      "blank": "How [much] did you pay for your [bicycle]?"
+    },
+    {
+      "section": 40,
+      "number": 7,
+      "id": "s40-07",
+      "ja": "その値は農作物に大きな被害を与えました。",
+      "en": "The storm did great damage to the crops.",
+      "blank": "The [storm] did great [damage] to the [crops]."
+    },
+    {
+      "section": 40,
+      "number": 8,
+      "id": "s40-08",
+      "ja": "私は外国から来た学生と仲良くなりました。",
+      "en": "I made friends with a student from abroad.",
+      "blank": "I made [friends] with a [student] from [abroad]."
+    },
+    {
+      "section": 40,
+      "number": 9,
+      "id": "s40-09",
+      "ja": "楽しかったです。連絡を取り合いましょう。",
+      "en": "I've had a good time. We should keep in touch.",
+      "blank": "[I've] had a good time. We should [keep in touch]."
+    },
+    {
+      "section": 40,
+      "number": 10,
+      "id": "s40-10",
+      "ja": "彼の家族は彼のわずかな収入でなんとか生活しました。",
+      "en": "His family managed to live on his small income.",
+      "blank": "His [family] [managed] to live on his small [income]."
+    },
+    {
+      "section": 40,
+      "number": 11,
+      "id": "s40-11",
+      "ja": "ゆうべ近所で火事がありました。",
+      "en": "A fire broke out in my neighborhood last night.",
+      "blank": "A fire [broke] out in my [neighborhood] last [night]."
+    },
+    {
+      "section": 40,
+      "number": 12,
+      "id": "s40-12",
+      "ja": "驚いたことに、その車はひとりでに動き始めました。",
+      "en": "To my surprise, the car began to move by itself.",
+      "blank": "To my [surprise], the car [began] to move by [itself]."
+    },
+    {
+      "section": 40,
+      "number": 13,
+      "id": "s40-13",
+      "ja": "和食の話題となると、ジェームズは誰にも引けを取りません。",
+      "en": "When it comes to talking about Washoku, James is second to none.",
+      "blank": "When it [comes] to [talking] about Washoku, James is [second] to none."
+    },
+    {
+      "section": 40,
+      "number": 14,
+      "id": "s40-14",
+      "ja": "言うまでもありませんが、自分の成功を他人に頼るべきではありません。",
+      "en": "Needless to say, you shouldn't depend on other people for your success.",
+      "blank": "[Needless] to say, you [shouldn't] [depend on] other people for your success."
+    },
+    {
+      "section": 40,
+      "number": 15,
+      "id": "s40-15",
+      "ja": "私はぜひともその計画を実行しようと決心しています。",
+      "en": "I'm determined to carry out the plan at all costs.",
+      "blank": "I'm [determined] to [carry] out the plan at all [costs]."
+    }
+  ]
+}

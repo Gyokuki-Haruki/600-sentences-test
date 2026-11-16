@@ -1,0 +1,165 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="theme-color" content="#f5c84c">
+<title>600選暗記アプリ | 英文を、自分のものに。</title>
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 40 40'%3E%3Crect width='40' height='40' rx='12' fill='%23f5c84c'/%3E%3Ctext x='20' y='28' text-anchor='middle' font-size='27'%3E%E2%9C%B3%3C/text%3E%3C/svg%3E">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Noto+Sans+JP:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script><script src="js/supabase-config.js"></script>
+</head>
+<body>
+<div id="appShell" class="hidden">
+  <header class="topbar">
+    <a class="brand" href="#home">
+      <span class="brandmark">✳</span><span>600選暗記アプリ<small>600 sentences</small></span>
+    </a>
+    <nav class="app-nav">
+      <button data-view="home" class="active">ホーム</button>
+      <button data-view="settings">英文テスト</button>
+      <button data-view="library">文例ライブラリ</button>
+    </nav>
+    <div class="user-area">
+      <span id="usernameLabel" class="username">学習者</span>
+      <a id="adminUsersLink" class="btn secondary small hidden" href="admin-users.html">利用者アカウント管理</a>
+      <a id="myPageLink" class="btn secondary small" href="mypage.html">名前・パスワード変更</a>
+      <button id="logoutButton" class="btn secondary small">ログアウト</button>
+    </div>
+  </header>
+  <main>
+    <section id="homeView" class="view active">
+      <div class="eyebrow">
+        YOUR ENGLISH SENTENCES
+      </div>
+      <h1>  英文を、自分のものに。</h1>
+      <p class="subtitle">一文ずつ積み重ねて、目標を達成しよう。</p>
+      <div class="hero">
+        <div>
+          <span class="eyebrow">Every step counts.</span>
+          <h2>今日も、ひとつ進もう。</h2>
+          <p>短い時間でも大丈夫。昨日より一歩、夢に近づこう。</p>
+        </div>
+        <button class="btn primary" data-go="settings">テストをはじめる　→</button>
+      </div>
+      <div class="stats">
+        <div class="card stat">
+          <span>これまでのテスト</span>
+          <b id="statTests">0 <small>回</small></b>
+        </div>
+        <div class="card stat">
+          <span>学習した文例</span>
+          <b id="statSentences">0 <small>/ 600 文</small></b>
+        </div>
+        <div class="card stat">
+          <span>累計正答率</span>
+          <b id="statAccuracy">— <small>%</small></b>
+        </div>
+      </div>
+      <section class="card learning-chart-card" aria-labelledby="learningChartTitle">
+        <div class="chart-heading"><div><h2 id="learningChartTitle">学習記録</h2><p class="muted">回答した日の正解数を表示します。</p></div><label class="chart-period">表示期間 <select id="chartDays"><option value="7">7日</option><option value="14" selected>14日</option><option value="30">30日</option></select></label></div>
+        <div id="learningChart" class="learning-chart" role="img" aria-label="日ごとの正解数グラフ"></div>
+      </section>
+    </section>
+    <section id="settingsView" class="view">
+      <div class="eyebrow">MAKE IT YOURS</div>
+      <h1>英文テスト</h1>
+      <p class="subtitle">出題方法と範囲を選んで、自分に合った練習を。</p>
+      <div class="settings-grid">
+        <div class="card settings-card">
+          <h2>出題方法</h2>
+          <p class="muted">出題順序と解答形式をそれぞれ選べます。</p>
+          <div class="field">
+            <div class="field-title">出題順序</div>
+            <div class="option-row" id="orderChoices">
+              <button class="option active" data-value="random">
+                <i></i>
+                <span><b>ランダム</b><small>範囲内から順不同で出題</small></span>
+              </button>
+              <button class="option" data-value="weak">
+                <i></i>
+                <span><b>間違え率優先</b><small>これまでに間違えた問題を優先</small></span>
+              </button>
+            </div>
+          </div>
+          <div class="field">
+            <div class="field-title">解答形式</div>
+            <div class="option-list" id="answerChoices">
+              <button class="option active" data-value="write">
+                <i></i>
+                <span><b>例文をすべて書く</b><small>日本語を見て英文全体を入力</small></span>
+              </button>
+              <button class="option" data-value="sort">
+                <i></i>
+                <span><b>並び替え</b><small>単語カードを正しい順に並べる</small></span>
+              </button>
+              <button class="option" data-value="blank">
+                <i></i>
+                <span><b>重要なところだけ穴埋め</b><small>英文の空欄部分を入力</small></span>
+              </button>
+            </div>
+          </div>
+          <div class="field">
+            <div class="field-title">出題範囲</div>
+            <div class="range-row">
+              <div class="range-card">
+                <label>開始</label>
+                <div>
+                  <select id="startSection" aria-label="開始セクション"></select>
+                  <select id="startNumber" aria-label="開始番号"></select>
+                </div>
+              </div>
+              <div class="range-card">
+                <label>終了</label>
+                <div>
+                  <select id="endSection" aria-label="終了セクション"></select>
+                  <select id="endNumber" aria-label="終了番号"></select>
+                </div>
+              </div>
+            </div>
+            <p id="rangeSummary" class="range-summary"></p>
+          </div>
+          <div class="field">
+            <label class="field-title" for="questionLimit">問題数</label>
+            <div class="question-limit-row">
+              <input id="questionLimit" class="question-limit" type="number" min="0" step="1" inputmode="numeric" aria-label="問題数"><span>問</span>
+              <button id="allQuestions" class="btn secondary small" type="button">範囲内すべてに戻す</button>
+            </div>
+          </div>
+          <button id="beginTest" class="btn primary wide">この設定でテストを開始　→</button>
+        </div>
+        <aside class="card test-preview">
+          <div class="preview-heading">
+            <h2>今回のテスト</h2>
+          </div>
+          <b id="questionCount" class="question-count">6 <small>問</small></b>
+          <div class="progress">
+            <i id="previewProgress"></i>
+          </div>
+          <div id="previewDescription" class="muted"></div>
+          <ul>
+            <li id="selectedOrder">ランダム</li>
+            <li id="selectedAnswer">例文をすべて書く</li>
+            <li>正解を確認しながら進めます</li>
+          </ul>
+        </aside>
+      </div>
+    </section>
+    <section id="quizView" class="view">
+      <div class="eyebrow">YOUR PRACTICE</div>
+      <h1>英文テスト</h1>
+      <div id="quizRoot" class="quiz-wrap"></div>
+    </section>
+    <section id="libraryView" class="view">
+      <div class="eyebrow">SENTENCE LIBRARY</div>
+      <h1>文例ライブラリ</h1>
+      <p class="subtitle">収録されている英文と訳を確認できます。</p>
+      <div id="librarySections" class="section-filter" aria-label="セクションを選択"></div>
+      <div id="libraryList" class="card library-list"></div>
+    </section>
+  </main>
+  <footer>Sentence Studio · 英文テスト</footer>
+</div>
+<div id="toast" class="toast" role="status"></div>
+<script src="js/app.js"></script>
+</body>
+</html>

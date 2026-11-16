@@ -1,0 +1,84 @@
+<!doctype html>
+<html lang="ja">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#f5c84c">
+        <title>利用者アカウント管理 | Sentence Studio</title>
+        <link rel="stylesheet" href="style.css">
+        <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+        <script src="js/supabase-config.js"></script>
+        <script src="js/auth.js"></script>
+    </head>
+    <body>
+        <main class="admin-page">
+            <header class="admin-heading">
+                <a class="brand" href="mypage.html">
+                    <span class="brandmark">✳</span>
+                    <span>Sentence Studio<small>ACCOUNT MANAGEMENT</small></span>
+                </a>
+                <a class="btn secondary" href="index.html">学習画面へ戻る</a>
+            </header>
+            <section class="card admin-card">
+                <div class="eyebrow">ADMIN</div>
+                <h1>利用者アカウント管理</h1>
+                <p class="muted">複数の利用者をまとめて発行できます。1行ずつID、表示名、初期パスワードを入力してください。</p>
+                <div class="bulk-table-wrap">
+                    <table class="bulk-table">
+                        <thead>
+                            <tr>
+                                <th>ID</th>
+                                <th>表示名</th>
+                                <th>初期パスワード（12文字以上）</th>
+                            </tr>
+                        </thead>
+                        <tbody id="newAccountRows"></tbody>
+                    </table>
+                </div>
+                <div class="admin-actions">
+                    <button id="addAccountRow" class="btn secondary" type="button">入力行を追加</button>
+                    <button id="createAccounts" class="btn primary" type="button">入力したアカウントを一括発行</button>
+                </div>
+                <div id="createMessage" class="message" role="status"></div>
+                <div id="createdCredentials" class="card hidden credential-card">
+                    <h2>今回発行したアカウント</h2>
+                    <p class="muted">初期パスワードは今回の画面でのみ確認できます。必要なら先に印刷してください。</p>
+                    <div id="credentialList"></div>
+                    <button id="printCredentials" class="btn secondary" type="button">今回の発行分を印刷</button>
+                </div>
+            </section>
+            <section class="card admin-card">
+                <div class="admin-section-heading">
+                    <div>
+                        <h2>アカウント一覧</h2>
+                        <p class="muted">表示名とIDを一覧で確認できます。印刷範囲は一覧の並び順で指定します。</p>
+                    </div>
+                    <button id="reloadAccounts" class="btn secondary" type="button">一覧を更新</button>
+                </div>
+                <div class="print-range">
+                    <label>印刷開始行 <input id="printStart" type="number" min="1" value="1"></label>
+                    <label>印刷終了行 <input id="printEnd" type="number" min="1" value="1"></label>
+                    <button id="printRange" class="btn primary" type="button">指定範囲を印刷</button>
+                </div>
+                <p id="accountMessage" class="message" role="status"></p>
+                <div class="bulk-table-wrap">
+                    <table class="bulk-table account-list">
+                        <thead>
+                            <tr>
+                                <th>行</th>
+                                <th>ID</th>
+                                <th>表示名</th>
+                                <th>発行日</th>
+                            </tr>
+                        </thead>
+                        <tbody id="accountRows">
+
+                        </tbody>
+                    </table>
+                </div>
+                <div id="printArea" class="print-area"></div>
+            </section>
+        </main>
+        <script src="js/admin-users.js"></script>
+    </body>
+</html>
