@@ -69,6 +69,16 @@ $('#beginTest').onclick=async()=>{
   const requested=Number.parseInt($('#questionLimit').value,10);$('#questionLimit').value=Number.isFinite(requested)?Math.max(0,requested):0;queue=candidates.slice(0,configuredCount(candidates.length)); qIndex=0; numCorrect=0; answerOutcomes=[]; testId=crypto.randomUUID(); renderQuestion(); view('quiz');
 };
 function norm(v) { return v.toLowerCase().replace(/[.,!?']/g,'').replace(/\s+/g,' ').trim(); }
+function shuffle(items) { for(let i=items.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[items[i],items[j]]=[items[j],items[i]];}return items; }
+function properNameSet() {
+  const names=new Set();
+  sentences.forEach(sentence=>sentence.en.replace(/[?.!,]/g,'').split(/\s+/).forEach((word,index)=>{if(index>0&&/^[A-Z][a-z]/.test(word))names.add(word.toLowerCase());}));
+  return names;
+}
+function sortDisplayWord(word,index,names) {
+  if(/^I(?:['’].*)?$/.test(word)||/[A-Z].*[A-Z]|[a-z][A-Z]/.test(word)||names.has(word.toLowerCase()))return word;
+  return word.toLowerCase();
+}
 function renderQuestion() {
   const q=queue[qIndex]; selectedTokens=[]; pendingAnswer=null; correctionMode=false;
   let html=`<div class="quiz-top"><span>${orderMode==='weak'?'間違え率優先':'ランダム'} · ${{write:'全入力',sort:'並び替え',blank:'穴埋め'}[answerMode]}</span><span>${qIndex+1} / ${queue.length}</span></div><div class="progress"><i style="width:${qIndex/queue.length*100}%"></i></div><div class="card question-card"><div class="question-head"><span class="pill">SECTION ${q.section} · ${q.number}番</span><span class="muted">日本語から英語へ</span></div><div class="question-jp">${escapeText(q.ja)}</div>`;
@@ -78,7 +88,7 @@ function renderQuestion() {
     for(const match of q.blank.matchAll(/\[([^\]]+)\]/g)) { answerLine+=escapeText(q.blank.slice(cursor,match.index)); const index=match.index; answerLine+=`<input class="answer small gap-input" data-gap="${index}" aria-label="空欄" placeholder="語句">`; cursor=match.index+match[0].length; }
     answerLine+=escapeText(q.blank.slice(cursor)); html+=`<div class="prompt">重要語句の空欄をすべて入力してください</div><div class="answer-line">${answerLine}</div>`;
   }
-  if(answerMode==='sort') { tokenPool=q.en.replace(/[?.!,]/g,'').split(' ').map((word,index)=>({word,index})).sort(()=>Math.random()-.5); html+=`<div class="prompt">カードをタップして正しい順に並べてください</div><div class="answer-slots" id="answerSlots"></div><div id="wordChips" class="word-chips">${tokenPool.map((t,i)=>`<button class="chip" data-token="${i}">${escapeText(t.word)}</button>`).join('')}</div>`; }
+  if(answerMode==='sort') { const names=properNameSet();tokenPool=shuffle(q.en.replace(/[?.!,]/g,'').split(/\s+/).map((word,index)=>({word:sortDisplayWord(word,index,names),index})));html+=`<div class="prompt">カードをタップして正しい順に並べてください</div><div class="answer-slots" id="answerSlots"></div><div id="wordChips" class="word-chips">${tokenPool.map((t,i)=>`<button class="chip" data-token="${i}">${escapeText(t.word)}</button>`).join('')}</div>`; }
   html+=`<div id="feedback"></div><div class="quiz-actions"><button class="btn secondary" id="backSettings">中断して設定へ</button><button class="btn primary" id="checkAnswer">答えを確認　→</button></div></div>`; $('#quizRoot').innerHTML=html;
   if(answerMode==='sort') $$('#wordChips .chip').forEach(b=>b.onclick=()=>{if(resultSaved)return;selectedTokens.push(+b.dataset.token);b.disabled=true;drawSlots();});
   $('#backSettings').onclick=()=>view('settings'); $('#checkAnswer').onclick=checkAnswer; resultSaved=false;
@@ -99,12 +109,12 @@ async function checkAnswer() {
   if(error) { button.disabled=false;button.textContent='結果を再送信';$('#feedback').innerHTML=`<div class="feedback bad"><b>この問題の結果を保存できませんでした。</b>${escapeText(error.message)}<br>再送信を押してください。</div>`;return; }
   const {is_correct:ok}=pendingAnswer;if(ok)numCorrect++;answerOutcomes.push({sentence_id:q.id,correct:ok});resultSaved=true;pendingAnswer=null;
   $$('#answerInput, .gap-input').forEach(input=>input.disabled=true);
-  if(ok) { $('#feedback').innerHTML=`<div class="feedback good"><b>正解！いい調子です。</b>${escapeText(q.en)}<br>Supabaseに記録しました。</div>`; button.disabled=false;button.textContent=qIndex===queue.length-1?'結果を見る　→':'次の問題へ　→'; }
+  if(ok) { $('#feedback').innerHTML=`<div class="feedback good"><b>正解！いい調子です。</b></div>`; button.disabled=false;button.textContent=qIndex===queue.length-1?'結果を見る　→':'次の問題へ　→'; }
   else startCorrections(q);
 }
 function startCorrections(q) {
   correctionMode=true;
-  $('#feedback').innerHTML=`<div class="feedback bad"><b>間違えた英文を3回書いて覚えよう。</b>正しい英文をそのまま入力してください。<div class="correction-list">${[1,2,3].map(i=>`<label>書き直し ${i}<textarea class="answer correction-input" rows="2" aria-label="書き直し ${i}" placeholder="${i}回目"></textarea></label>`).join('')}</div><p id="correctionMessage" class="correction-message"></p></div>`;
+  $('#feedback').innerHTML=`<div class="feedback bad"><b>不正解です。正しい英文を確認してください。</b><p class="correct-answer">${escapeText(q.en)}</p><div class="correction-instruction">この英文を3回書いて覚えましょう。</div><div class="correction-list">${[1,2,3].map(i=>`<label>書き直し ${i}<textarea class="answer correction-input" rows="2" aria-label="書き直し ${i}" placeholder="${i}回目"></textarea></label>`).join('')}</div><p id="correctionMessage" class="correction-message"></p></div>`;
   $('#checkAnswer').disabled=false;$('#checkAnswer').textContent='3回分を確認';
 }
 function verifyCorrections() {
@@ -115,7 +125,7 @@ function verifyCorrections() {
   const button=$('#checkAnswer');button.textContent=qIndex===queue.length-1?'結果を見る　→':'次の問題へ　→';
 }
 async function finishTest() {
-  const total=queue.length,pct=Math.round(numCorrect/total*100);$('#quizRoot').innerHTML=`<div class="card result"><div class="emoji">${pct>=70?'🌟':'🌱'}</div><h2>おつかれさま！</h2><p>一文ずつ、着実に進めました。<br>続けることが英語力につながります。</p><div class="result-stat">${numCorrect} / ${total}<small>正解数</small></div><div class="result-stat">${pct}%<small>正答率</small></div><p class="save-note">回答ごとの結果をSupabaseに保存しました。</p><button class="btn primary" id="againButton">設定に戻る</button> <button class="btn secondary" id="homeButton">ホームへ</button></div>`;
+  const total=queue.length,pct=Math.round(numCorrect/total*100);$('#quizRoot').innerHTML=`<div class="card result"><div class="emoji">${pct>=70?'🌟':'🌱'}</div><h2>おつかれさま！</h2><p>一文ずつ、着実に進めました。<br>続けることが英語力につながります。</p><div class="result-stat">${numCorrect} / ${total}<small>正解数</small></div><div class="result-stat">${pct}%<small>正答率</small></div><p class="save-note">回答ごとの結果を保存しました。</p><button class="btn primary" id="againButton">設定に戻る</button> <button class="btn secondary" id="homeButton">ホームへ</button></div>`;
   $('#againButton').onclick=()=>view('settings');$('#homeButton').onclick=()=>view('home');await updateStats();
 }
 let answerOutcomes=[];
@@ -134,7 +144,7 @@ function renderLearningChart(rows){
   const days=+($('#chartDays')?.value||14),today=new Date(),values=[];
   for(let i=days-1;i>=0;i--){const date=new Date(today.getFullYear(),today.getMonth(),today.getDate()-i);values.push({date,key:dateKey(date),count:0});}
   const byDay=new Map(values.map(v=>[v.key,v]));rows.forEach(row=>{if(row.is_correct&&byDay.has(dateKey(row.created_at)))byDay.get(dateKey(row.created_at)).count++;});
-  const w=800,h=230,left=38,right=12,top=15,bottom=42,chartH=h-top-bottom,max=Math.max(1,...values.map(v=>v.count)),ticks=4;
+  const w=960,h=180,left=42,right=12,top=12,bottom=34,chartH=h-top-bottom,max=Math.max(1,...values.map(v=>v.count)),ticks=4;
   const x=i=>left+(i/(Math.max(1,days-1)))*(w-left-right),y=n=>top+chartH-(n/max)*chartH;
   const grid=Array.from({length:ticks+1},(_,i)=>{const n=Math.round(max*i/ticks),yy=y(n);return `<line x1="${left}" y1="${yy}" x2="${w-right}" y2="${yy}"/><text x="${left-9}" y="${yy+4}" text-anchor="end">${n}</text>`;}).join('');
   const points=values.map((v,i)=>`${x(i)},${y(v.count)}`).join(' '),labels=values.map((v,i)=>i%Math.max(1,Math.ceil(days/7))===0||i===days-1?`<text x="${x(i)}" y="${h-13}" text-anchor="middle">${v.date.getMonth()+1}/${v.date.getDate()}</text>`:'').join('');
