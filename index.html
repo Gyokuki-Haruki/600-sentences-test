@@ -29,31 +29,63 @@
   <main>
     <section id="homeView" class="view active">
       <div class="hero">
-        <div>
-          <span class="eyebrow">Every step counts.</span>
+        <div class="hero-copy">
+          <span class="eyebrow">EVERY STEP COUNTS</span>
           <h2>今日も、ひとつ進もう。</h2>
-          <p>短い時間でも大丈夫。昨日より一歩、夢に近づこう。</p>
+          <p>短い時間でも大丈夫。昨日より一歩、自分の表現を増やそう。</p>
         </div>
-        <button class="btn primary" data-go="settings">テストをはじめる　→</button>
+        <button class="btn primary hero-cta" data-go="settings">
+          <span>テストをはじめる</span>
+          <span class="arrow" aria-hidden="true">→</span>
+        </button>
       </div>
-      <div class="stats">
-        <div class="card stat">
-          <span>これまでのテスト</span>
-          <b id="statTests">0 <small>回</small></b>
+
+      <div class="dashboard-grid">
+        <div class="stats">
+          <div class="card stat kaisuu">
+            <div class="stat-head">
+              <span>これまでのテスト</span>
+            </div>
+            <b id="statTests">0 <small>回</small></b>
+          </div>
+
+          <div class="card stat bunrei">
+            <div class="stat-head">
+              <span>学習した文例</span>
+            </div>
+            <div>
+              <b id="statSentences">0 <small>/ 600 文</small></b>
+              <div class="stat-bar" id="statSentencesBar" role="img" aria-label="英文の解答状況"></div>
+              <div class="stat-bar-legend" aria-hidden="true"><span><i class="legend-correct"></i>正解</span><span><i class="legend-review"></i>要復習</span><span><i class="legend-unanswered"></i>未回答</span></div>
+            </div>
+          </div>
+
+          <div class="card stat seikairitu">
+            <div class="stat-head">
+              <span>累計正答率</span>
+            </div>
+            <b id="statAccuracy">— <small>%</small></b>
+          </div>
         </div>
-        <div class="card stat">
-          <span>学習した文例</span>
-          <b id="statSentences">0 <small>/ 600 文</small></b>
-        </div>
-        <div class="card stat">
-          <span>累計正答率</span>
-          <b id="statAccuracy">— <small>%</small></b>
-        </div>
+
+        <section class="card learning-chart-card" aria-labelledby="learningChartTitle">
+          <div class="chart-heading">
+            <div>
+              <h2 id="learningChartTitle">学習記録</h2>
+              <p class="muted">回答した日の正解数を表示します。</p>
+            </div>
+            <label class="chart-period">
+              表示期間
+              <select id="chartDays">
+                <option value="7">7日</option>
+                <option value="14" selected>14日</option>
+                <option value="30">30日</option>
+              </select>
+            </label>
+          </div>
+          <div id="learningChart" class="learning-chart" role="img" aria-label="日ごとの正解数グラフ"></div>
+        </section>
       </div>
-      <section class="card learning-chart-card" aria-labelledby="learningChartTitle">
-        <div class="chart-heading"><div><h2 id="learningChartTitle">学習記録</h2><p class="muted">回答した日の正解数を表示します。</p></div><label class="chart-period">表示期間 <select id="chartDays"><option value="7">7日</option><option value="14" selected>14日</option><option value="30">30日</option></select></label></div>
-        <div id="learningChart" class="learning-chart" role="img" aria-label="日ごとの正解数グラフ"></div>
-      </section>
     </section>
     <section id="settingsView" class="view">
       <div class="eyebrow">MAKE IT YOURS</div>
